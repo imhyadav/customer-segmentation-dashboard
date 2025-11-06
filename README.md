@@ -79,4 +79,4 @@ This project helps marketing and sales teams:
 
 Created by **HIMANSHU YADAV**  
 📧 Himanshu; himanshuyadavhimann@gmail.com  
-🔗 [LinkedIn Profile or Portfolio Link]
+🔗https://www.linkedin.com/in/himanshu-yadav-971226232/
