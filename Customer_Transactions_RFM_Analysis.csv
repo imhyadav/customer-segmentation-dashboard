@@ -1,0 +1,1001 @@
+InvoiceNo,InvoiceDate,CustomerID,CustomerSince,Country,PaymentMethod,Channel,StockCode,Description,Category,SubCategory,Quantity,UnitPrice,DiscountPct,PromoCode,TotalAmount
+INV100521,2024-04-16 12:20:16,C1128,2019-01-25,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100737,2023-12-29 08:14:27,C1116,2018-11-12,United States,Debit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100740,2023-04-22 12:36:13,C1276,2018-09-21,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,4,53.87,0.0,WELCOME5,215.48
+INV100660,2024-12-13 21:44:50,C1339,2021-01-18,United States,Credit Card,Online,P007,Headphones,Electronics,Audio,1,53.87,0.0,NEW10,53.87
+INV100411,2024-10-02 01:07:40,C1252,2018-05-29,United States,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.2,,232.592
+INV100678,2022-03-01 00:25:26,C1138,2019-05-29,United States,PayPal,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.25,,72.94500000000001
+INV100626,2024-03-07 20:52:14,C1027,2018-09-14,France,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.0,,221.13
+INV100513,2024-07-06 07:45:06,C1230,2019-06-28,United Kingdom,Cash,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.05,,247.66499999999996
+INV100859,2024-06-15 16:23:59,C1357,2019-02-24,United Kingdom,PayPal,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,SUMMER20,205.86
+INV100136,2024-11-16 05:13:30,C1107,2019-03-12,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,WELCOME5,143.13
+INV100811,2024-07-30 05:06:46,C1269,2019-08-21,United Kingdom,Debit Card,Offline,P008,Webcam,Electronics,Accessories,4,62.13,0.05,,236.094
+INV100076,2024-05-15 09:14:00,C1095,2021-01-11,France,Credit Card,Online,P007,Headphones,Electronics,Audio,1,53.87,0.25,SUMMER20,40.402499999999996
+INV100636,2024-09-04 16:32:45,C1337,2021-03-26,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,1,96.99,0.0,,96.99
+INV100973,2024-01-03 07:34:11,C1007,2018-04-27,India,Credit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.2,,101.13600000000001
+INV100938,2022-02-10 22:01:20,C1093,2018-04-25,Germany,Credit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.05,,184.28099999999998
+INV100899,2023-09-18 07:57:35,C1380,2019-10-07,United Kingdom,PayPal,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.1,,246.546
+INV100280,2022-12-08 17:24:09,C1286,2019-12-29,United States,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,1,119.76,0.15,,101.796
+INV100883,2022-04-15 00:39:33,C1274,2018-08-17,United Kingdom,PayPal,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100761,2024-09-11 10:57:22,C1144,2018-08-08,Germany,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,2,32.42,0.1,,58.356
+INV100319,2024-07-05 16:54:14,C1085,2022-03-12,United States,Credit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.25,,145.48499999999999
+INV100549,2024-08-06 10:39:37,C1164,2021-02-27,Germany,Debit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,SUMMER20,143.13
+INV100174,2022-11-05 19:44:00,C1368,2019-02-07,France,PayPal,Offline,P005,Office Chair,Furniture,Seating,1,42.19,0.0,WELCOME5,42.19
+INV100371,2023-04-04 02:43:09,C1320,2020-11-25,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,1,62.13,0.3,VIP15,43.491
+INV100527,2023-06-23 23:40:32,C1167,2018-05-24,United Kingdom,Bank Transfer,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.1,WELCOME5,87.534
+INV100210,2022-11-07 07:49:50,C1343,2018-11-09,United States,Debit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,,186.39000000000001
+INV100235,2023-07-11 14:53:08,C1080,2019-07-12,Germany,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.15,,23.97
+INV100101,2023-02-14 21:16:15,C1038,2020-01-21,United Kingdom,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.05,NEW10,83.809
+INV100986,2022-01-12 03:34:17,C1291,2018-07-25,Spain,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.05,WELCOME5,390.36449999999996
+INV100902,2023-03-03 05:47:07,C1142,2020-01-01,Australia,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,NEW10,190.84
+INV100947,2024-07-03 23:04:43,C1229,2022-11-21,Australia,Credit Card,Online,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,WELCOME5,167.42
+INV100346,2022-03-11 07:47:26,C1295,2019-07-22,Australia,Debit Card,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.0,SUMMER20,126.57
+INV100139,2023-11-28 09:38:34,C1314,2022-12-07,France,Debit Card,Offline,P020,HDMI Cable,Electronics,Accessories,7,145.37,0.2,,814.0720000000001
+INV100621,2023-11-22 00:35:58,C1007,2021-09-09,United States,Credit Card,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.25,,31.6425
+INV100499,2023-01-06 16:55:54,C1041,2019-01-03,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.1,,117.315
+INV100370,2022-07-05 02:17:43,C1133,2020-04-28,United States,PayPal,Offline,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,,359.28000000000003
+INV100198,2022-03-17 23:48:19,C1377,2018-04-24,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100687,2024-07-27 19:36:38,C1009,2022-12-02,United Kingdom,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,6,21.12,0.1,,114.048
+INV100584,2022-08-29 10:40:34,C1041,2019-10-24,France,PayPal,Online,P004,Notebook,Office Supplies,Stationery,1,32.42,0.2,,25.936000000000003
+INV100901,2023-07-01 02:38:36,C1083,2019-03-29,United Kingdom,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.05,NEW10,130.1215
+INV100059,2022-12-14 21:53:13,C1344,2020-11-04,Germany,Bank Transfer,Offline,P010,Monitor 24in,Electronics,Displays,6,73.71,0.0,SUMMER20,442.26
+INV100328,2024-02-19 21:33:37,C1388,2021-05-01,Spain,Debit Card,Offline,P014,Smart Speaker,Electronics,Audio,5,102.93,0.0,,514.6500000000001
+INV100096,2023-01-26 21:52:53,C1007,2018-09-18,India,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,WELCOME5,42.24
+INV100312,2022-08-15 20:26:01,C1007,2020-07-24,Australia,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.0,NEW10,198.18
+INV100974,2024-01-18 20:54:56,C1271,2021-07-10,France,PayPal,Offline,P009,External HDD,Electronics,Storage,4,66.06,0.1,VIP15,237.816
+INV100299,2023-04-15 01:17:26,C1160,2019-10-16,United Kingdom,PayPal,Offline,P018,Mouse Pad,Accessories,Accessories,5,130.35,0.0,,651.75
+INV100277,2024-06-27 04:34:05,C1051,2022-03-08,United States,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100924,2022-03-19 08:31:06,C1176,2018-02-12,Spain,Credit Card,Offline,P010,Monitor 24in,Electronics,Displays,3,73.71,0.0,,221.13
+INV100601,2022-04-17 01:32:30,C1374,2018-07-20,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.0,,521.4
+INV100439,2022-02-03 17:26:42,C1359,2018-04-12,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,9,136.97,0.15,,1047.8205
+INV100837,2023-10-02 19:07:28,C1135,2019-02-11,United States,Debit Card,Offline,P010,Monitor 24in,Electronics,Displays,2,73.71,0.15,,125.30699999999999
+INV100570,2022-02-12 11:59:20,C1076,2020-04-18,France,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100879,2022-05-03 20:23:13,C1105,2019-07-06,United States,Credit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100261,2022-09-26 19:29:44,C1060,2018-09-14,Spain,PayPal,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.15,NEW10,105.621
+INV100578,2023-10-03 11:43:30,C1200,2019-01-22,United Kingdom,PayPal,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.3,,130.473
+INV100023,2023-06-21 04:04:05,C1297,2020-01-07,United Kingdom,PayPal,Online,P015,Tablet 10in,Electronics,Computing,1,112.27,0.2,,89.816
+INV100030,2024-01-23 23:04:43,C1135,2018-03-09,United States,Credit Card,Offline,P007,Headphones,Electronics,Audio,4,53.87,0.2,NEW10,172.38400000000001
+INV100617,2023-09-20 03:17:36,C1013,2018-06-14,Spain,Cash,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100010,2024-05-22 18:09:43,C1066,2019-10-08,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100221,2024-08-19 22:51:37,C1385,2020-11-08,India,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100820,2022-10-13 07:07:31,C1273,2019-07-14,France,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,NEW10,28.2
+INV100296,2024-11-19 12:51:18,C1088,2020-07-15,Germany,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.15,,247.129
+INV100054,2023-06-02 01:02:22,C1078,2019-05-10,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.1,VIP15,66.339
+INV100542,2023-01-28 06:25:37,C1238,2018-07-31,United Kingdom,Debit Card,Online,P009,External HDD,Electronics,Storage,5,66.06,0.0,,330.3
+INV100209,2024-09-29 17:13:49,C1228,2021-05-01,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,,130.35
+INV100604,2024-05-08 22:43:30,C1008,2020-02-01,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.15,,47.94
+INV100692,2024-11-09 05:44:38,C1197,2020-02-03,Germany,Debit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.1,,226.017
+INV100662,2023-05-17 06:12:54,C1332,2019-06-23,United Kingdom,Debit Card,Offline,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100866,2022-12-19 00:49:53,C1339,2019-11-02,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,,42.3
+INV100070,2023-06-26 02:55:14,C1248,2018-10-25,United Kingdom,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,4,112.27,0.0,,449.08
+INV100543,2023-04-19 02:11:44,C1006,2021-10-06,France,PayPal,Online,P007,Headphones,Electronics,Audio,3,53.87,0.25,,121.20749999999998
+INV100107,2022-06-11 04:57:28,C1103,2018-02-09,France,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100493,2024-01-02 03:11:59,C1284,2018-05-05,United Kingdom,Cash,Online,P007,Headphones,Electronics,Audio,2,53.87,0.0,,107.74
+INV100590,2022-07-06 10:28:55,C1324,2018-12-09,India,Bank Transfer,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,,359.28000000000003
+INV100741,2022-08-07 18:00:47,C1337,2020-12-19,United States,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,SUMMER20,83.82000000000001
+INV100292,2022-01-30 09:07:53,C1005,2019-03-08,Australia,PayPal,Offline,P017,Standing Desk,Furniture,Desks,4,126.42,0.25,,379.26
+INV100289,2023-06-10 15:52:51,C1388,2020-12-30,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,,55.88
+INV100652,2022-01-17 22:06:26,C1379,2019-06-06,France,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,4,119.76,0.2,,383.232
+INV100039,2023-12-16 11:01:53,C1015,2018-08-30,Germany,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,9,145.37,0.0,VIP15,1308.33
+INV100589,2024-10-17 20:35:49,C1270,2022-08-24,France,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100307,2023-07-19 11:56:02,C1237,2018-03-22,Australia,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.25,,165.8475
+INV100679,2022-04-23 04:07:57,C1283,2020-02-08,United States,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.0,,147.42
+INV100066,2022-03-08 00:44:32,C1162,2018-06-01,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.2,,198.81600000000003
+INV100275,2023-06-18 16:35:38,C1356,2019-02-28,France,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.0,SUMMER20,63.36
+INV100067,2024-02-22 08:40:46,C1225,2018-07-16,United Kingdom,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,3,119.76,0.2,,287.42400000000004
+INV100318,2023-07-22 17:57:08,C1078,2019-05-07,United States,Debit Card,Offline,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,,391.04999999999995
+INV100548,2022-09-05 04:13:28,C1210,2021-08-05,United Kingdom,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.0,NEW10,56.4
+INV100998,2024-02-26 13:57:17,C1112,2018-04-12,Germany,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100714,2023-04-04 12:20:58,C1129,2018-07-23,India,Debit Card,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.0,,352.88
+INV100753,2022-05-24 06:59:02,C1067,2021-12-26,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.0,SUMMER20,73.71
+INV100327,2022-07-11 16:58:41,C1288,2018-03-03,United Kingdom,PayPal,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.05,SUMMER20,227.544
+INV100382,2024-05-28 03:51:15,C1175,2018-12-26,United Kingdom,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,,205.86
+INV100451,2022-12-27 01:15:34,C1256,2021-06-20,India,Bank Transfer,Offline,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.1,WELCOME5,25.146
+INV100522,2024-05-03 12:32:23,C1072,2020-12-30,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.1,NEW10,25.38
+INV100218,2023-07-05 00:20:42,C1189,2018-11-02,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.1,,215.568
+INV100787,2022-02-04 02:55:06,C1143,2018-06-25,United States,Bank Transfer,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.1,SUMMER20,85.878
+INV100436,2024-04-08 16:32:20,C1104,2023-02-17,United Kingdom,Credit Card,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.0,NEW10,124.26
+INV100764,2022-11-28 01:13:09,C1240,2019-08-13,United Kingdom,Credit Card,Offline,P009,External HDD,Electronics,Storage,3,66.06,0.0,,198.18
+INV100088,2024-06-03 21:15:42,C1278,2020-10-16,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.0,NEW10,168.76
+INV100063,2022-09-23 02:11:29,C1121,2021-07-29,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.05,,213.313
+INV100826,2024-09-15 16:43:19,C1313,2022-12-28,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,,411.72
+INV100716,2022-05-31 01:18:15,C1193,2018-10-08,Australia,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100351,2023-05-16 20:17:45,C1339,2018-03-19,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,NEW10,145.37
+INV100936,2022-11-11 07:51:57,C1278,2020-03-14,United States,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,4,32.42,0.0,,129.68
+INV100256,2024-03-05 08:38:58,C1185,2022-05-27,United Kingdom,PayPal,Online,P004,Notebook,Office Supplies,Stationery,8,32.42,0.0,,259.36
+INV100635,2024-02-23 16:29:11,C1126,2022-03-15,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,4,96.99,0.1,,349.164
+INV100644,2024-06-05 16:08:52,C1270,2020-07-10,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.15,,71.808
+INV100554,2023-09-16 12:45:19,C1213,2020-04-26,United States,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.15,SUMMER20,190.85899999999998
+INV100959,2024-02-08 08:55:17,C1149,2020-08-01,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,,260.7
+INV100168,2024-03-28 07:28:39,C1199,2021-08-09,India,PayPal,Offline,P005,Office Chair,Furniture,Seating,1,42.19,0.0,NEW10,42.19
+INV100917,2024-10-17 02:30:57,C1002,2020-10-17,Germany,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.05,SUMMER20,66.975
+INV100528,2022-11-01 09:29:24,C1044,2019-01-12,United Kingdom,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,2,32.42,0.1,,58.356
+INV100823,2022-03-28 10:44:24,C1269,2019-06-04,Australia,Debit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,,264.65999999999997
+INV100985,2024-12-30 04:12:28,C1269,2021-04-01,France,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.15,NEW10,59.925
+INV100816,2023-11-13 22:25:33,C1330,2018-05-31,United States,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,5,47.71,0.0,,238.55
+INV100086,2022-12-31 13:22:39,C1069,2019-05-09,United Kingdom,Bank Transfer,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,,27.94
+INV100432,2023-05-27 08:37:59,C1070,2020-07-05,India,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100184,2023-11-16 01:56:52,C1276,2020-09-26,United Kingdom,Bank Transfer,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.15,,121.6605
+INV100978,2022-05-18 09:56:47,C1316,2020-02-13,United Kingdom,Debit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.0,,198.18
+INV100534,2022-10-06 21:03:52,C1361,2020-03-24,United Kingdom,Bank Transfer,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.0,,273.94
+INV100294,2023-03-10 14:42:56,C1204,2020-04-10,United States,Debit Card,Offline,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,,27.94
+INV100892,2024-08-31 01:28:48,C1265,2022-11-15,Spain,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100425,2023-01-07 19:05:45,C1108,2020-04-04,Germany,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.0,,73.71
+INV100713,2022-04-12 09:35:10,C1241,2019-03-16,United Kingdom,Debit Card,Online,P009,External HDD,Electronics,Storage,6,66.06,0.0,,396.36
+INV100260,2024-07-18 09:32:04,C1164,2020-06-08,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,6,145.37,0.2,,697.7760000000001
+INV100237,2024-04-20 15:05:08,C1018,2018-02-04,Spain,PayPal,Online,P011,Desk Lamp,Home,Lighting,5,83.71,0.0,,418.54999999999995
+INV100559,2022-07-10 13:07:30,C1065,2019-07-31,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,SUMMER20,83.82000000000001
+INV100583,2022-12-12 14:54:59,C1320,2021-01-13,United Kingdom,PayPal,Online,P009,External HDD,Electronics,Storage,4,66.06,0.0,,264.24
+INV100445,2023-11-05 04:12:58,C1297,2021-08-28,Germany,Credit Card,Online,P011,Desk Lamp,Home,Lighting,1,83.71,0.0,,83.71
+INV100867,2022-05-20 21:57:09,C1323,2020-02-22,Spain,Bank Transfer,Online,P008,Webcam,Electronics,Accessories,7,62.13,0.0,WELCOME5,434.91
+INV100800,2022-10-27 09:35:30,C1167,2019-02-01,United Kingdom,Cash,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.2,WELCOME5,232.592
+INV100599,2024-04-20 18:02:35,C1104,2021-04-14,United States,PayPal,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.05,WELCOME5,60.192
+INV100849,2022-11-14 01:58:05,C1275,2019-10-05,France,Credit Card,Online,P017,Standing Desk,Furniture,Desks,4,126.42,0.05,VIP15,480.39599999999996
+INV100265,2023-05-01 06:46:36,C1224,2020-01-24,United States,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,VIP15,28.2
+INV100995,2024-09-29 14:46:15,C1218,2020-01-06,India,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,VIP15,111.76
+INV100529,2024-01-23 19:33:18,C1392,2019-02-06,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.25,VIP15,35.7825
+INV100055,2024-02-05 07:56:00,C1072,2022-09-29,India,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,,64.84
+INV100120,2024-08-12 18:50:31,C1134,2018-06-03,India,Debit Card,Offline,P007,Headphones,Electronics,Audio,2,53.87,0.05,,102.353
+INV100215,2022-06-02 10:33:42,C1330,2019-12-04,India,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,,27.94
+INV100025,2022-08-16 14:06:17,C1367,2019-03-07,United Kingdom,Debit Card,Offline,P012,Pen Set,Office Supplies,Stationery,6,88.22,0.05,SUMMER20,502.8539999999999
+INV100072,2023-11-18 19:24:05,C1209,2019-10-22,United Kingdom,Credit Card,Offline,P009,External HDD,Electronics,Storage,5,66.06,0.0,,330.3
+INV100044,2024-03-10 13:43:22,C1391,2022-08-23,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100247,2023-12-22 13:32:43,C1102,2021-01-31,Spain,Bank Transfer,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.05,,123.83249999999998
+INV100721,2022-03-11 14:40:02,C1000,2019-04-09,India,PayPal,Online,P015,Tablet 10in,Electronics,Computing,5,112.27,0.05,,533.2825
+INV100281,2024-05-21 19:59:25,C1365,2022-05-15,United Kingdom,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.0,SUMMER20,273.94
+INV100893,2023-05-08 04:54:47,C1381,2018-10-29,Germany,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,,42.3
+INV100914,2022-12-12 18:56:04,C1042,2018-04-22,United Kingdom,PayPal,Online,P007,Headphones,Electronics,Audio,9,53.87,0.0,WELCOME5,484.83
+INV100810,2024-06-16 12:52:35,C1330,2023-08-06,United Kingdom,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,4,83.71,0.15,,284.614
+INV100244,2024-06-22 16:31:53,C1060,2021-06-04,Spain,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.1,,50.292
+INV100822,2024-10-01 18:20:58,C1238,2020-04-14,Spain,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,,126.42
+INV100321,2022-12-02 06:21:43,C1201,2020-09-30,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,WELCOME5,97.26
+INV100643,2022-03-19 15:50:57,C1064,2019-06-05,United States,Credit Card,Offline,P007,Headphones,Electronics,Audio,1,53.87,0.2,,43.096000000000004
+INV100158,2022-02-06 02:55:31,C1039,2019-05-14,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.05,,125.514
+INV100977,2023-04-07 02:15:55,C1115,2020-10-28,United Kingdom,PayPal,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.05,,118.047
+INV100429,2024-05-23 12:11:26,C1302,2022-02-21,United Kingdom,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.05,WELCOME5,167.618
+INV100941,2023-07-24 04:34:25,C1317,2018-12-04,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.0,VIP15,273.94
+INV100462,2023-09-15 19:00:28,C1081,2021-06-22,United Kingdom,Credit Card,Offline,P013,Backpack,Accessories,Bags,4,96.99,0.0,,387.96
+INV100309,2024-07-11 14:44:21,C1119,2020-04-12,United Kingdom,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,2,126.42,0.25,,189.63
+INV100697,2024-05-16 16:20:00,C1292,2020-11-11,Australia,Bank Transfer,Offline,P016,Coffee Mug,Home,Kitchen,1,119.76,0.0,,119.76
+INV100060,2022-03-08 16:39:23,C1102,2018-07-14,France,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,5,32.42,0.0,SUMMER20,162.10000000000002
+INV100884,2023-03-18 23:50:45,C1087,2020-12-01,United Kingdom,Debit Card,Offline,P007,Headphones,Electronics,Audio,3,53.87,0.0,,161.60999999999999
+INV100595,2023-01-16 00:31:10,C1070,2020-03-05,Australia,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.0,,521.4
+INV100767,2022-05-18 09:10:09,C1330,2019-02-22,United States,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100649,2024-05-13 18:35:23,C1342,2019-02-02,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.15,,224.96099999999996
+INV100650,2022-08-27 14:54:33,C1104,2018-10-27,Spain,Debit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100865,2023-10-01 17:38:03,C1212,2021-12-18,United Kingdom,Debit Card,Offline,P003,Laptop Stand,Electronics,Accessories,12,27.94,0.0,,335.28000000000003
+INV100668,2023-05-29 01:42:17,C1027,2020-09-25,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,,547.88
+INV100298,2024-01-01 12:15:47,C1166,2020-03-28,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.15,,47.498
+INV100689,2022-08-27 01:52:45,C1204,2021-09-11,United Kingdom,Credit Card,Online,P011,Desk Lamp,Home,Lighting,4,83.71,0.25,NEW10,251.13
+INV100314,2024-01-16 06:34:43,C1386,2022-04-06,Germany,PayPal,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100310,2022-12-23 04:36:06,C1339,2020-07-05,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,6,62.13,0.0,WELCOME5,372.78000000000003
+INV100361,2023-01-15 15:41:27,C1215,2018-05-23,United States,Debit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,,126.42
+INV100479,2023-01-16 19:03:37,C1193,2018-03-27,United Kingdom,Bank Transfer,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.1,,185.27400000000003
+INV100110,2023-07-28 22:06:58,C1122,2020-12-27,United Kingdom,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100989,2024-10-04 07:28:07,C1337,2018-08-19,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,4,112.27,0.15,WELCOME5,381.71799999999996
+INV100486,2024-08-07 22:56:24,C1028,2018-03-26,Spain,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,,176.44
+INV100363,2024-08-26 05:33:09,C1374,2018-05-03,United States,Credit Card,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.1,,37.971
+INV100254,2023-03-28 01:44:04,C1274,2022-03-06,United Kingdom,Cash,Online,P004,Notebook,Office Supplies,Stationery,1,32.42,0.0,,32.42
+INV100259,2023-08-19 05:33:30,C1312,2021-04-19,Germany,PayPal,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.05,,227.544
+INV100802,2023-07-05 06:11:12,C1155,2021-02-17,United Kingdom,PayPal,Offline,P004,Notebook,Office Supplies,Stationery,1,32.42,0.0,,32.42
+INV100677,2022-09-09 05:14:21,C1397,2018-05-21,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.0,,42.19
+INV100494,2024-07-21 19:36:45,C1386,2023-06-05,Spain,Debit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,,411.72
+INV100670,2023-09-22 12:21:17,C1022,2019-09-08,United States,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,5,145.37,0.0,VIP15,726.85
+INV100377,2024-03-25 12:47:16,C1124,2019-03-22,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.1,,25.146
+INV100526,2023-06-28 00:11:11,C1379,2022-01-25,United Kingdom,Debit Card,Offline,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100845,2024-04-26 02:33:01,C1189,2019-11-16,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.2,,465.184
+INV100137,2022-04-07 04:40:07,C1218,2020-01-29,Australia,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.0,NEW10,88.22
+INV100355,2024-05-17 09:39:19,C1225,2018-03-07,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,6,145.37,0.0,NEW10,872.22
+INV100365,2024-08-09 13:33:04,C1154,2019-01-10,United Kingdom,Debit Card,Offline,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.05,,335.236
+INV100942,2023-05-21 21:40:21,C1198,2018-10-14,United Kingdom,PayPal,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.05,SUMMER20,92.397
+INV100749,2023-08-16 01:16:11,C1114,2021-01-04,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,NEW10,111.76
+INV100948,2024-04-28 14:55:35,C1248,2020-05-06,United Kingdom,PayPal,Online,P010,Monitor 24in,Electronics,Displays,6,73.71,0.1,,398.034
+INV100829,2024-05-28 09:14:33,C1185,2022-06-12,United Kingdom,PayPal,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,NEW10,251.13
+INV100656,2023-09-21 08:25:07,C1230,2021-05-11,Germany,Bank Transfer,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,,205.86
+INV100199,2024-11-07 03:17:18,C1279,2019-02-18,United States,Bank Transfer,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100213,2022-05-10 04:07:30,C1395,2018-09-02,United States,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.05,,371.49749999999995
+INV100408,2022-09-15 07:26:50,C1127,2021-02-08,United Kingdom,Cash,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.1,,323.35200000000003
+INV100332,2023-06-18 00:35:39,C1383,2019-10-08,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.1,,76.03200000000001
+INV100208,2024-01-09 20:15:48,C1082,2019-06-06,United Kingdom,PayPal,Offline,P007,Headphones,Electronics,Audio,2,53.87,0.0,NEW10,107.74
+INV100613,2022-06-02 17:10:39,C1286,2022-01-11,United Kingdom,Cash,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.2,,50.688
+INV100078,2023-10-08 01:37:01,C1345,2021-04-22,France,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,,14.1
+INV100029,2024-07-12 07:47:53,C1239,2020-05-29,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.15,,116.4245
+INV100535,2022-04-09 17:10:07,C1298,2019-06-03,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,4,53.87,0.0,,215.48
+INV100695,2022-01-05 03:54:05,C1047,2018-03-04,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.1,VIP15,215.568
+INV100557,2022-01-03 06:15:25,C1380,2021-01-27,France,Credit Card,Offline,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100836,2023-01-28 12:42:08,C1219,2020-02-23,Spain,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,6,130.35,0.0,,782.0999999999999
+INV100596,2022-04-11 16:20:34,C1055,2022-01-13,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,,547.88
+INV100165,2024-01-08 03:17:48,C1302,2022-07-27,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,5,21.12,0.0,,105.60000000000001
+INV100918,2022-10-21 12:29:04,C1124,2019-02-09,Germany,Credit Card,Offline,P005,Office Chair,Furniture,Seating,1,42.19,0.0,,42.19
+INV100495,2022-01-15 21:29:50,C1137,2019-02-18,United Kingdom,Credit Card,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100824,2022-04-22 00:22:55,C1309,2020-12-31,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.2,VIP15,179.632
+INV100065,2022-05-21 13:46:20,C1115,2018-09-01,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,1,102.93,0.0,,102.93
+INV100141,2023-06-07 19:02:00,C1227,2018-09-11,India,Cash,Offline,P007,Headphones,Electronics,Audio,4,53.87,0.05,,204.706
+INV100925,2023-07-05 11:50:19,C1062,2019-05-18,France,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100827,2022-04-16 06:34:47,C1103,2018-08-11,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100655,2022-10-05 21:28:54,C1353,2019-12-15,United States,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100331,2022-07-21 07:52:52,C1376,2020-07-21,United Kingdom,PayPal,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100664,2024-11-03 04:56:05,C1132,2022-03-15,Germany,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.0,SUMMER20,521.4
+INV100249,2023-07-31 18:13:24,C1362,2020-08-20,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,VIP15,130.35
+INV100907,2022-01-03 15:19:41,C1140,2020-09-14,India,PayPal,Online,P008,Webcam,Electronics,Accessories,7,62.13,0.0,VIP15,434.91
+INV100708,2023-11-22 23:43:25,C1042,2018-05-13,United Kingdom,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,,260.7
+INV100305,2024-07-25 10:02:20,C1045,2021-03-09,France,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,1,112.27,0.2,NEW10,89.816
+INV100734,2022-07-09 14:55:39,C1165,2019-11-05,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,5,102.93,0.0,,514.6500000000001
+INV100975,2022-09-18 23:29:38,C1245,2018-03-13,France,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100049,2024-10-24 08:23:47,C1104,2018-09-06,India,Cash,Online,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.2,,417.12
+INV100896,2022-11-02 08:51:55,C1200,2018-02-03,India,Bank Transfer,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,,411.72
+INV100002,2024-12-25 04:50:39,C1140,2023-02-18,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,6,112.27,0.15,WELCOME5,572.577
+INV100544,2024-03-28 00:18:08,C1271,2018-01-09,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,11,14.1,0.15,WELCOME5,131.83499999999998
+INV100350,2024-05-07 18:00:13,C1342,2018-06-22,United States,Debit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.15,,247.32449999999997
+INV100904,2022-04-09 06:09:50,C1032,2018-06-10,France,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,,55.88
+INV100536,2022-10-24 18:14:52,C1166,2020-12-09,United Kingdom,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,NEW10,55.88
+INV100344,2024-07-22 00:58:56,C1155,2020-09-24,United States,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.2,,70.57600000000001
+INV100994,2023-07-06 01:26:33,C1320,2018-10-05,United States,Cash,Offline,P009,External HDD,Electronics,Storage,4,66.06,0.05,,251.028
+INV100481,2024-01-15 13:41:03,C1237,2021-01-20,United Kingdom,PayPal,Offline,P019,Planner 2024,Office Supplies,Stationery,5,136.97,0.0,,684.85
+INV100575,2022-11-21 06:21:45,C1175,2019-03-17,India,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,,186.39000000000001
+INV100033,2023-11-02 00:24:00,C1368,2018-12-29,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.2,,312.84
+INV100031,2024-03-10 11:45:24,C1361,2021-02-08,United Kingdom,PayPal,Online,P009,External HDD,Electronics,Storage,4,66.06,0.05,NEW10,251.028
+INV100231,2024-11-27 17:37:58,C1193,2021-03-02,United Kingdom,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,3,119.76,0.1,,323.35200000000003
+INV100963,2023-07-06 00:19:27,C1280,2020-05-27,United Kingdom,Debit Card,Offline,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,SUMMER20,251.13
+INV100192,2024-05-06 21:16:33,C1233,2020-09-09,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.2,,33.839999999999996
+INV100333,2022-09-30 09:47:21,C1333,2019-02-05,United Kingdom,Bank Transfer,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100003,2022-10-10 02:43:29,C1155,2018-12-17,United States,PayPal,Online,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,,167.42
+INV100204,2024-06-03 17:41:52,C1227,2022-04-29,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.0,,290.74
+INV100514,2024-08-31 03:51:18,C1307,2020-12-18,United Kingdom,Bank Transfer,Offline,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100799,2023-02-17 23:09:29,C1095,2020-06-21,Australia,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100306,2022-12-05 22:28:53,C1143,2018-11-16,United Kingdom,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.0,,21.12
+INV100109,2023-03-13 00:09:48,C1286,2019-05-19,United Kingdom,Cash,Online,P003,Laptop Stand,Electronics,Accessories,5,27.94,0.05,,132.715
+INV100430,2024-04-01 07:27:25,C1056,2023-05-18,United Kingdom,PayPal,Online,P014,Smart Speaker,Electronics,Audio,3,102.93,0.0,,308.79
+INV100077,2023-04-23 14:15:25,C1381,2019-06-07,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,1,66.06,0.0,WELCOME5,66.06
+INV100084,2024-08-03 07:24:40,C1331,2020-01-30,United States,PayPal,Offline,P008,Webcam,Electronics,Accessories,7,62.13,0.0,,434.91
+INV100286,2022-01-22 01:30:00,C1152,2020-10-18,Spain,Debit Card,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.0,NEW10,88.22
+INV100082,2022-01-16 08:38:56,C1183,2018-02-16,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.05,,130.1215
+INV100991,2024-09-19 12:59:53,C1009,2020-09-09,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.15,WELCOME5,112.302
+INV100789,2023-11-14 03:12:59,C1155,2018-01-14,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.1,WELCOME5,215.568
+INV100894,2023-09-13 15:35:20,C1204,2020-02-15,United States,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,VIP15,224.54
+INV100398,2022-11-27 00:53:51,C1291,2019-07-15,Germany,Bank Transfer,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,,64.84
+INV100323,2022-04-12 12:46:24,C1045,2019-03-03,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,,145.37
+INV100519,2022-02-22 22:45:52,C1109,2018-08-22,United States,Credit Card,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.15,,105.621
+INV100916,2024-01-29 05:50:40,C1243,2021-03-18,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,SUMMER20,143.13
+INV100922,2023-02-20 01:08:00,C1333,2019-09-17,United Kingdom,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,4,73.71,0.0,SUMMER20,294.84
+INV100005,2024-06-19 21:39:58,C1344,2019-09-29,United Kingdom,Debit Card,Online,P007,Headphones,Electronics,Audio,2,53.87,0.1,,96.966
+INV100731,2023-11-18 00:41:28,C1324,2019-06-03,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100465,2024-05-09 11:41:51,C1381,2020-04-16,United States,Credit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.1,,341.334
+INV100097,2022-02-14 12:17:35,C1378,2019-09-23,United Kingdom,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.25,,52.875
+INV100266,2022-03-30 21:02:19,C1126,2020-04-01,United Kingdom,Debit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100357,2024-02-27 13:08:25,C1329,2018-07-02,Germany,PayPal,Online,P013,Backpack,Accessories,Bags,2,96.99,0.15,NEW10,164.88299999999998
+INV100868,2023-06-25 10:53:08,C1138,2019-06-29,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.05,,236.094
+INV100798,2022-07-20 13:37:07,C1229,2019-11-22,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.15,,121.6605
+INV100380,2024-07-20 08:18:02,C1050,2018-08-27,United States,PayPal,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.15,,232.849
+INV100631,2024-12-29 12:59:33,C1103,2018-07-22,Germany,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.0,,198.18
+INV100381,2022-02-08 17:54:29,C1215,2019-03-24,Germany,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.2,,101.256
+INV100490,2024-07-14 01:25:01,C1053,2020-08-06,United States,Bank Transfer,Online,P007,Headphones,Electronics,Audio,3,53.87,0.0,NEW10,161.60999999999999
+INV100118,2023-10-19 11:39:19,C1045,2018-06-22,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100900,2024-03-02 12:11:09,C1367,2022-05-25,Spain,PayPal,Online,P007,Headphones,Electronics,Audio,6,53.87,0.05,,307.05899999999997
+INV100250,2024-02-20 04:38:09,C1156,2022-12-27,India,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.0,VIP15,63.36
+INV100523,2023-12-03 18:52:19,C1339,2018-09-08,United States,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100009,2024-10-22 23:37:00,C1326,2018-02-21,United Kingdom,Debit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.2,WELCOME5,77.808
+INV100196,2024-11-10 02:55:30,C1326,2018-03-09,Australia,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,WELCOME5,83.82000000000001
+INV100603,2024-07-28 11:07:36,C1190,2020-06-16,United Kingdom,Debit Card,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.05,,120.24149999999999
+INV100081,2024-02-22 13:53:43,C1393,2020-07-18,Germany,Debit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,NEW10,251.13
+INV100783,2022-11-24 06:27:09,C1012,2020-04-06,United Kingdom,Credit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.0,SUMMER20,193.98
+INV100587,2024-11-27 10:53:39,C1187,2020-03-28,United Kingdom,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,6,14.1,0.1,,76.14
+INV100797,2022-06-11 22:34:51,C1111,2018-03-08,United Kingdom,PayPal,Offline,P004,Notebook,Office Supplies,Stationery,4,32.42,0.0,,129.68
+INV100239,2023-08-05 17:53:50,C1391,2020-12-06,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100290,2022-08-28 02:42:29,C1259,2020-04-22,United States,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.05,NEW10,188.271
+INV100211,2022-01-23 18:15:40,C1079,2019-01-27,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.2,SUMMER20,33.839999999999996
+INV100717,2022-01-21 03:26:48,C1031,2019-03-03,United States,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,3,126.42,0.05,,360.29699999999997
+INV100359,2022-04-21 09:26:17,C1379,2018-09-18,United States,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.25,NEW10,165.8475
+INV100449,2023-02-16 19:41:35,C1289,2022-04-15,United Kingdom,Debit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.15,,107.58449999999999
+INV100227,2022-05-10 09:38:09,C1358,2018-09-28,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,1,66.06,0.0,NEW10,66.06
+INV100950,2023-08-16 19:17:33,C1074,2021-10-19,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,,190.84
+INV100946,2023-12-29 10:51:57,C1063,2018-06-19,United Kingdom,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.3,NEW10,305.277
+INV100796,2023-08-17 23:14:13,C1296,2018-08-06,United Kingdom,Credit Card,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100501,2022-09-16 03:26:42,C1287,2020-07-27,United States,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.1,,158.796
+INV100464,2023-07-13 21:48:45,C1285,2019-11-26,Germany,Debit Card,Offline,P009,External HDD,Electronics,Storage,3,66.06,0.0,,198.18
+INV100362,2023-01-19 14:48:47,C1042,2019-09-19,United Kingdom,PayPal,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,NEW10,547.88
+INV100468,2023-08-23 21:22:14,C1269,2019-03-13,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,4,119.76,0.15,,407.184
+INV100935,2023-09-02 21:24:17,C1091,2018-06-01,United Kingdom,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100428,2024-10-19 03:08:43,C1137,2022-05-09,United States,Debit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100007,2022-12-28 14:08:28,C1098,2020-06-03,United Kingdom,PayPal,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.15,,213.4605
+INV100155,2022-03-03 06:08:07,C1359,2019-03-21,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.2,,58.967999999999996
+INV100541,2022-11-29 17:11:54,C1125,2018-10-21,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.2,,149.11200000000002
+INV100440,2024-08-15 05:17:49,C1083,2023-01-24,Germany,Credit Card,Online,P009,External HDD,Electronics,Storage,4,66.06,0.25,,198.18
+INV100482,2023-10-31 22:37:00,C1320,2020-08-25,Germany,PayPal,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.15,,286.2885
+INV100422,2022-05-10 22:53:40,C1318,2020-02-03,United Kingdom,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.15,,23.97
+INV100778,2024-12-26 19:12:46,C1158,2019-04-19,United Kingdom,PayPal,Online,P009,External HDD,Electronics,Storage,4,66.06,0.0,,264.24
+INV100949,2023-10-27 20:23:14,C1245,2021-03-08,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100334,2022-11-03 03:16:22,C1151,2018-12-15,United Kingdom,Credit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,,547.88
+INV100576,2023-04-19 23:58:37,C1032,2020-10-07,Germany,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.15,SUMMER20,40.5535
+INV100934,2022-01-12 02:11:39,C1254,2019-04-13,United States,Bank Transfer,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100567,2022-11-30 14:54:23,C1131,2018-11-07,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.05,,213.313
+INV100594,2022-09-02 09:47:22,C1214,2018-03-04,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,11,47.71,0.05,,498.5695
+INV100530,2023-04-03 07:25:55,C1104,2018-10-31,United States,PayPal,Offline,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100581,2023-04-23 03:05:53,C1124,2018-06-04,United States,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,,260.7
+INV100707,2022-04-02 18:28:49,C1289,2018-07-20,United Kingdom,PayPal,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,SUMMER20,126.57
+INV100448,2022-01-11 01:48:26,C1064,2018-01-29,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,4,73.71,0.25,,221.13
+INV100453,2023-01-21 16:56:05,C1212,2019-07-06,United States,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100228,2024-05-18 05:17:31,C1195,2019-05-09,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.0,,132.12
+INV100352,2022-05-06 06:07:42,C1202,2018-02-08,France,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,13,112.27,0.0,,1459.51
+INV100728,2024-09-02 19:31:35,C1007,2021-03-25,United Kingdom,PayPal,Offline,P008,Webcam,Electronics,Accessories,3,62.13,0.15,,158.4315
+INV100212,2022-02-16 20:45:05,C1352,2018-11-30,United States,Debit Card,Online,P011,Desk Lamp,Home,Lighting,13,83.71,0.1,,979.407
+INV100079,2024-06-29 04:15:21,C1243,2019-06-10,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,7,88.22,0.05,,586.6629999999999
+INV100148,2022-12-24 01:42:07,C1378,2022-03-12,United Kingdom,PayPal,Online,P007,Headphones,Electronics,Audio,3,53.87,0.0,,161.60999999999999
+INV100302,2022-06-01 17:42:57,C1227,2018-02-22,India,Credit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.1,,223.668
+INV100628,2024-11-03 09:31:05,C1207,2020-07-05,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.1,VIP15,369.81899999999996
+INV100777,2022-08-30 12:47:57,C1018,2020-05-15,United States,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.25,,110.565
+INV100506,2022-09-25 10:48:09,C1252,2021-09-29,India,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100342,2024-03-04 20:04:26,C1190,2022-06-05,United Kingdom,PayPal,Offline,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.0,WELCOME5,70.5
+INV100485,2024-03-30 05:06:55,C1298,2020-12-09,United States,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.05,NEW10,53.086
+INV100711,2022-08-22 18:45:41,C1277,2020-12-22,United Kingdom,Bank Transfer,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.25,,42.3
+INV100133,2022-03-31 15:31:26,C1354,2020-05-22,Spain,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.0,,21.12
+INV100703,2024-09-26 04:15:23,C1280,2022-02-23,United States,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.05,WELCOME5,106.172
+INV100311,2023-09-01 14:00:50,C1219,2022-03-12,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.05,WELCOME5,13.395
+INV100722,2024-12-13 08:39:33,C1244,2023-05-22,United Kingdom,PayPal,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100629,2022-05-17 12:36:38,C1203,2018-08-29,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,NEW10,379.26
+INV100000,2022-01-09 00:37:09,C1309,2018-03-30,France,Bank Transfer,Online,P007,Headphones,Electronics,Audio,4,53.87,0.05,,204.706
+INV100316,2024-05-13 02:51:30,C1352,2018-04-28,Australia,Credit Card,Offline,P010,Monitor 24in,Electronics,Displays,2,73.71,0.0,WELCOME5,147.42
+INV100706,2024-01-14 05:40:59,C1214,2021-01-27,Spain,PayPal,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100547,2024-12-23 18:39:54,C1036,2019-03-08,Australia,Bank Transfer,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,,379.26
+INV100872,2024-07-05 20:46:01,C1003,2019-03-21,United States,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,VIP15,411.72
+INV100532,2022-05-11 01:39:15,C1145,2018-08-02,Germany,Credit Card,Online,P007,Headphones,Electronics,Audio,3,53.87,0.0,SUMMER20,161.60999999999999
+INV100477,2023-06-02 17:06:33,C1151,2023-01-18,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,5,66.06,0.0,,330.3
+INV100404,2022-04-19 10:17:14,C1313,2019-02-21,Australia,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100172,2024-08-01 02:31:47,C1294,2021-02-26,United States,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100125,2022-09-24 07:20:42,C1112,2021-06-28,United Kingdom,PayPal,Offline,P007,Headphones,Electronics,Audio,2,53.87,0.05,,102.353
+INV100394,2024-11-08 08:12:17,C1267,2019-10-23,India,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.05,,53.58
+INV100420,2022-09-10 06:56:30,C1322,2019-02-17,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.0,,352.88
+INV100552,2024-09-23 20:26:34,C1191,2018-04-09,United Kingdom,Debit Card,Offline,P013,Backpack,Accessories,Bags,1,96.99,0.0,,96.99
+INV100903,2022-01-18 08:38:32,C1351,2018-11-24,United Kingdom,Debit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,NEW10,190.84
+INV100090,2024-03-16 05:00:05,C1313,2021-09-01,United Kingdom,Cash,Offline,P007,Headphones,Electronics,Audio,3,53.87,0.15,,137.36849999999998
+INV100939,2024-01-08 23:46:40,C1224,2018-01-26,India,PayPal,Online,P002,USB-C Cable,Electronics,Accessories,6,21.12,0.0,,126.72
+INV100181,2024-03-31 22:01:41,C1128,2020-09-04,United Kingdom,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,5,32.42,0.05,,153.995
+INV100274,2024-08-13 02:05:26,C1332,2021-03-03,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.15,,158.4315
+INV100895,2022-11-28 11:02:22,C1057,2020-02-21,United Kingdom,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100069,2023-12-05 06:36:46,C1181,2018-11-05,United States,PayPal,Online,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.05,,495.3299999999999
+INV100291,2023-10-16 11:37:57,C1163,2020-06-09,United Kingdom,PayPal,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100131,2024-05-07 19:16:40,C1314,2021-08-11,United States,Debit Card,Offline,P007,Headphones,Electronics,Audio,4,53.87,0.0,,215.48
+INV100300,2022-01-25 08:35:27,C1269,2019-08-17,India,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,4,73.71,0.3,,206.38799999999998
+INV100424,2024-01-09 00:23:59,C1270,2018-07-24,United Kingdom,Cash,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.15,,105.621
+INV100326,2023-06-13 01:22:31,C1140,2020-10-20,United States,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.15,,174.981
+INV100144,2023-05-29 16:56:06,C1393,2021-11-09,United Kingdom,Bank Transfer,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,,145.37
+INV100423,2024-08-05 13:51:11,C1202,2019-09-04,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.0,,56.4
+INV100580,2022-10-20 21:51:21,C1034,2019-08-22,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,9,62.13,0.0,NEW10,559.1700000000001
+INV100135,2022-12-03 20:37:56,C1044,2019-11-14,Germany,Debit Card,Online,P013,Backpack,Accessories,Bags,4,96.99,0.0,,387.96
+INV100450,2022-01-08 10:57:41,C1375,2020-08-02,United States,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.2,,158.544
+INV100164,2024-09-07 20:28:40,C1082,2023-05-01,United States,Debit Card,Online,P007,Headphones,Electronics,Audio,3,53.87,0.0,,161.60999999999999
+INV100028,2023-11-19 15:32:20,C1154,2018-12-14,United Kingdom,Debit Card,Offline,P005,Office Chair,Furniture,Seating,4,42.19,0.3,,118.13199999999999
+INV100773,2023-06-10 23:20:53,C1153,2019-10-31,United Kingdom,Cash,Online,P008,Webcam,Electronics,Accessories,11,62.13,0.0,,683.4300000000001
+INV100193,2023-03-13 20:42:36,C1208,2021-09-15,United Kingdom,Debit Card,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.05,SUMMER20,125.514
+INV100388,2023-11-16 03:42:59,C1192,2022-01-25,United Kingdom,Credit Card,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100852,2022-07-21 11:56:25,C1174,2018-11-29,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100169,2024-07-14 06:13:49,C1239,2019-05-26,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,WELCOME5,126.42
+INV100705,2022-03-26 09:55:44,C1264,2021-01-28,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.05,,390.36449999999996
+INV100140,2023-09-25 07:23:20,C1176,2020-02-04,United Kingdom,Credit Card,Online,P011,Desk Lamp,Home,Lighting,4,83.71,0.0,NEW10,334.84
+INV100173,2023-08-30 12:18:41,C1176,2019-07-30,Australia,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.1,,19.008000000000003
+INV100006,2023-07-29 10:49:43,C1370,2020-02-21,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.1,,493.092
+INV100745,2022-07-14 08:26:28,C1353,2021-04-18,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100478,2023-03-07 06:12:32,C1025,2018-02-02,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,4,53.87,0.05,,204.706
+INV100073,2023-11-01 07:05:52,C1143,2021-09-02,United States,Debit Card,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100910,2023-10-31 00:01:49,C1111,2018-11-21,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.2,VIP15,179.632
+INV100813,2023-12-06 18:18:02,C1395,2020-04-21,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.15,,247.32449999999997
+INV100238,2023-11-25 10:48:24,C1101,2019-04-17,India,Debit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,SUMMER20,126.42
+INV100145,2024-10-06 03:24:28,C1266,2019-05-16,United Kingdom,Credit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.15,SUMMER20,247.32449999999997
+INV100792,2022-02-10 01:56:09,C1286,2018-02-09,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.0,SUMMER20,198.18
+INV100234,2023-07-06 19:53:58,C1292,2021-06-14,Spain,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,SUMMER20,145.37
+INV100220,2023-10-26 12:05:20,C1030,2019-05-26,United Kingdom,Bank Transfer,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,VIP15,379.26
+INV100923,2022-07-13 22:56:30,C1058,2018-06-29,Spain,Debit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.15,,71.723
+INV100500,2022-07-25 18:00:51,C1349,2021-08-25,United Kingdom,Cash,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100132,2024-12-16 14:20:53,C1393,2019-05-28,France,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.0,,136.97
+INV100990,2022-08-17 20:21:48,C1066,2018-09-27,United Kingdom,Credit Card,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.0,,132.12
+INV100774,2022-01-06 09:54:15,C1055,2020-02-03,Spain,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,4,126.42,0.1,,455.112
+INV100185,2023-05-11 17:44:17,C1292,2019-06-26,United States,Debit Card,Offline,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100041,2023-09-15 01:25:12,C1207,2020-04-19,India,Credit Card,Online,P007,Headphones,Electronics,Audio,4,53.87,0.1,,193.932
+INV100696,2023-01-18 07:34:38,C1129,2019-05-07,United Kingdom,Debit Card,Offline,P011,Desk Lamp,Home,Lighting,5,83.71,0.0,,418.54999999999995
+INV100108,2022-12-10 15:15:56,C1160,2019-10-10,India,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,5,102.93,0.0,,514.6500000000001
+INV100588,2023-07-10 13:43:55,C1110,2019-08-12,Spain,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.05,VIP15,414.3045
+INV100056,2024-03-26 09:53:51,C1175,2018-04-30,India,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,NEW10,130.35
+INV100405,2023-11-20 05:09:49,C1183,2019-12-22,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,4,96.99,0.05,,368.56199999999995
+INV100442,2024-06-19 07:28:23,C1153,2021-12-16,Germany,Debit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.05,SUMMER20,61.598
+INV100757,2022-03-31 05:13:31,C1089,2020-05-04,United States,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,,264.65999999999997
+INV100997,2024-01-12 12:37:06,C1282,2019-09-13,France,Bank Transfer,Online,P011,Desk Lamp,Home,Lighting,5,83.71,0.0,,418.54999999999995
+INV100024,2022-02-25 14:49:14,C1203,2020-09-07,Australia,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.2,,438.30400000000003
+INV100467,2024-10-16 01:12:43,C1279,2020-12-09,Spain,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100539,2024-08-06 20:55:05,C1210,2023-01-24,United States,PayPal,Online,P018,Mouse Pad,Accessories,Accessories,5,130.35,0.1,SUMMER20,586.575
+INV100531,2024-10-23 16:15:05,C1149,2018-09-30,Spain,Debit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,,264.65999999999997
+INV100618,2024-10-23 08:26:46,C1163,2021-09-25,United States,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.0,,47.71
+INV100694,2024-08-16 06:30:51,C1019,2018-12-27,Germany,Debit Card,Offline,P015,Tablet 10in,Electronics,Computing,14,112.27,0.0,VIP15,1571.78
+INV100926,2022-01-05 12:01:40,C1048,2018-06-29,United Kingdom,Cash,Offline,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.15,,162.214
+INV100338,2024-07-26 17:59:55,C1318,2021-08-09,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100051,2022-08-06 07:33:36,C1089,2018-11-16,United States,PayPal,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,WELCOME5,64.84
+INV100507,2024-10-10 15:50:23,C1121,2020-09-04,Spain,Credit Card,Online,P007,Headphones,Electronics,Audio,2,53.87,0.0,,107.74
+INV100516,2022-05-11 05:31:39,C1392,2018-07-02,United Kingdom,PayPal,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.05,SUMMER20,120.24149999999999
+INV100920,2024-05-04 08:40:42,C1083,2020-06-01,United Kingdom,PayPal,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,WELCOME5,64.84
+INV100781,2024-10-09 08:47:12,C1022,2022-12-17,Australia,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,5,145.37,0.1,,654.1650000000001
+INV100264,2024-02-22 05:45:54,C1152,2019-02-16,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100817,2022-08-15 17:38:26,C1252,2020-10-21,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,VIP15,97.26
+INV100710,2024-03-15 12:31:17,C1349,2022-01-23,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.1,,171.756
+INV100682,2023-01-10 04:24:07,C1316,2021-01-03,France,Debit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100832,2022-05-09 10:52:42,C1280,2020-11-18,United States,Credit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.25,,188.3475
+INV100518,2022-06-02 17:56:06,C1289,2020-07-01,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.05,,260.243
+INV100447,2024-12-01 04:50:01,C1394,2021-07-10,United States,Debit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.1,,58.356
+INV100018,2023-03-29 15:40:16,C1391,2019-03-05,Spain,PayPal,Offline,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,,176.44
+INV100715,2024-02-16 21:44:47,C1349,2018-12-25,United Kingdom,Bank Transfer,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,,205.86
+INV100483,2024-05-13 00:34:37,C1074,2022-01-21,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,4,119.76,0.0,,479.04
+INV100568,2022-11-27 21:35:37,C1036,2018-01-21,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,7,14.1,0.15,,83.895
+INV100433,2023-08-11 17:13:00,C1398,2021-04-19,United Kingdom,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,,130.35
+INV100367,2023-07-21 20:21:22,C1248,2018-05-02,Germany,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,VIP15,14.1
+INV100083,2023-10-25 09:17:55,C1120,2020-09-08,Germany,Cash,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.05,VIP15,240.19799999999998
+INV100061,2022-07-20 07:39:25,C1223,2020-12-12,United Kingdom,Cash,Online,P014,Smart Speaker,Electronics,Audio,6,102.93,0.0,,617.58
+INV100638,2022-12-01 18:13:18,C1105,2019-04-24,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.2,SUMMER20,22.560000000000002
+INV100272,2022-03-01 07:32:13,C1091,2020-02-23,India,PayPal,Online,P013,Backpack,Accessories,Bags,4,96.99,0.0,,387.96
+INV100285,2024-03-26 10:42:10,C1085,2019-11-08,Australia,Credit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.05,,360.29699999999997
+INV100360,2023-11-07 20:39:33,C1355,2020-09-07,Spain,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.15,,232.849
+INV100354,2024-12-10 11:11:24,C1120,2024-01-12,Australia,Debit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,VIP15,186.39000000000001
+INV100456,2024-04-18 01:54:04,C1148,2020-02-24,United Kingdom,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,SUMMER20,391.04999999999995
+INV100278,2024-10-01 13:17:07,C1194,2022-05-27,United Kingdom,Cash,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100012,2022-03-06 16:34:38,C1108,2018-10-30,Spain,PayPal,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.0,VIP15,63.36
+INV100182,2022-04-29 05:34:59,C1048,2019-03-05,India,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,4,83.71,0.0,WELCOME5,334.84
+INV100368,2024-01-21 06:57:39,C1236,2018-09-27,Germany,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,1,112.27,0.2,,89.816
+INV100881,2024-12-10 17:46:08,C1038,2019-03-28,United Kingdom,PayPal,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,NEW10,260.7
+INV100615,2023-06-25 20:51:52,C1061,2019-07-07,Australia,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,VIP15,83.82000000000001
+INV100223,2023-10-11 16:49:20,C1014,2018-11-14,Spain,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,1,119.76,0.05,NEW10,113.772
+INV100572,2024-06-02 06:02:36,C1252,2018-05-27,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,5,88.22,0.2,,352.88000000000005
+INV100970,2024-01-21 16:59:09,C1054,2022-10-17,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.05,,80.16099999999999
+INV100653,2024-12-04 05:20:05,C1109,2022-08-06,Germany,Debit Card,Offline,P015,Tablet 10in,Electronics,Computing,1,112.27,0.0,WELCOME5,112.27
+INV100545,2023-12-07 04:23:19,C1384,2018-07-18,Spain,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100582,2024-03-23 15:26:04,C1393,2020-12-01,Germany,Credit Card,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100633,2024-11-24 10:34:39,C1100,2021-12-29,United Kingdom,PayPal,Offline,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,,14.1
+INV100176,2024-08-17 17:20:48,C1236,2019-06-27,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.1,,38.07
+INV100665,2023-11-03 05:21:14,C1079,2019-07-15,India,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.05,,60.192
+INV100673,2024-03-14 20:09:37,C1144,2019-01-07,France,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,4,112.27,0.15,,381.71799999999996
+INV100585,2024-09-11 03:12:17,C1084,2021-07-28,United States,Debit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.1,NEW10,227.556
+INV100873,2023-10-23 17:27:39,C1075,2023-03-22,Germany,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,SUMMER20,27.94
+INV100393,2024-07-16 04:56:38,C1266,2020-08-01,United Kingdom,Debit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,NEW10,64.84
+INV100163,2023-03-26 19:37:22,C1319,2019-08-24,Spain,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,,176.44
+INV100248,2024-10-18 14:04:34,C1325,2021-12-19,India,Cash,Online,P014,Smart Speaker,Electronics,Audio,5,102.93,0.0,NEW10,514.6500000000001
+INV100634,2022-10-13 20:07:17,C1028,2019-03-17,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.1,,246.546
+INV100885,2022-07-11 16:08:36,C1210,2018-12-22,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.1,,223.668
+INV100669,2024-06-15 08:03:22,C1222,2019-10-08,India,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.0,,21.12
+INV100375,2023-07-19 02:27:24,C1087,2019-11-17,United States,Debit Card,Offline,P007,Headphones,Electronics,Audio,3,53.87,0.1,,145.44899999999998
+INV100412,2023-01-07 09:43:24,C1265,2018-04-03,United States,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.15,,149.974
+INV100074,2022-10-08 07:51:29,C1391,2018-11-04,Germany,Debit Card,Offline,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100113,2024-04-17 03:26:09,C1241,2018-05-04,Spain,PayPal,Online,P007,Headphones,Electronics,Audio,2,53.87,0.0,VIP15,107.74
+INV100598,2023-08-14 06:07:20,C1280,2019-09-17,United Kingdom,PayPal,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,SUMMER20,224.54
+INV100961,2022-01-24 15:08:54,C1032,2018-02-02,United States,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.2,,269.44800000000004
+INV100390,2024-02-01 22:39:39,C1301,2019-09-14,United States,PayPal,Offline,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,,359.28000000000003
+INV100104,2022-07-19 23:09:54,C1161,2019-12-19,United Kingdom,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100114,2023-12-22 15:23:51,C1377,2023-05-04,United Kingdom,Credit Card,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.05,,125.514
+INV100417,2023-10-12 11:44:29,C1258,2021-03-03,United Kingdom,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,NEW10,410.90999999999997
+INV100525,2024-07-19 09:08:28,C1355,2021-04-26,Germany,Debit Card,Offline,P007,Headphones,Electronics,Audio,4,53.87,0.2,,172.38400000000001
+INV100457,2022-02-21 00:28:00,C1087,2020-05-28,United States,Cash,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,,379.26
+INV100409,2023-03-14 05:48:51,C1286,2019-10-22,United Kingdom,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.0,,21.12
+INV100092,2022-12-17 01:22:14,C1220,2020-09-05,United States,Bank Transfer,Offline,P007,Headphones,Electronics,Audio,1,53.87,0.0,,53.87
+INV100930,2023-12-31 05:10:20,C1285,2021-02-03,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,6,96.99,0.1,,523.746
+INV100089,2024-06-12 00:27:16,C1136,2018-05-28,Germany,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,7,73.71,0.0,,515.9699999999999
+INV100336,2022-10-09 18:35:09,C1238,2019-01-02,United States,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.15,,123.5645
+INV100988,2023-05-06 22:55:13,C1360,2018-09-24,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.05,,213.313
+INV100921,2023-03-22 19:25:29,C1015,2020-03-31,Australia,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.1,,19.008000000000003
+INV100933,2022-07-05 04:30:02,C1337,2022-01-06,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.2,NEW10,149.11200000000002
+INV100605,2022-10-29 09:33:03,C1059,2019-10-28,United Kingdom,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.1,,50.76
+INV100593,2024-12-29 01:47:56,C1040,2019-04-09,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100611,2023-01-11 16:00:23,C1069,2020-02-18,United Kingdom,Credit Card,Offline,P013,Backpack,Accessories,Bags,1,96.99,0.0,,96.99
+INV100094,2024-09-16 00:35:26,C1277,2020-05-06,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,5,62.13,0.1,SUMMER20,279.58500000000004
+INV100011,2024-01-16 03:59:08,C1061,2020-02-19,United States,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,SUMMER20,111.76
+INV100396,2024-06-04 07:37:46,C1038,2021-07-27,United Kingdom,Cash,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.0,,147.42
+INV100533,2023-06-14 05:16:55,C1203,2019-09-17,France,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.0,VIP15,221.13
+INV100043,2024-12-24 00:15:57,C1375,2021-09-10,France,PayPal,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,,186.39000000000001
+INV100042,2023-11-24 18:27:14,C1018,2020-05-06,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.05,NEW10,251.42699999999996
+INV100329,2023-10-01 02:58:42,C1217,2020-09-26,Australia,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,VIP15,264.65999999999997
+INV100167,2024-10-16 15:51:32,C1271,2018-04-29,United States,PayPal,Online,P017,Standing Desk,Furniture,Desks,14,126.42,0.0,SUMMER20,1769.88
+INV100497,2022-02-05 08:03:36,C1397,2019-07-18,United States,Credit Card,Online,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,,167.42
+INV100876,2024-08-21 04:40:47,C1303,2023-10-22,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.2,SUMMER20,109.57600000000001
+INV100597,2024-08-20 12:20:29,C1235,2019-05-19,Germany,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100756,2024-02-27 14:50:59,C1195,2019-06-05,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,2,53.87,0.05,,102.353
+INV100100,2022-04-02 09:15:45,C1333,2019-02-17,United States,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,,55.88
+INV100426,2022-03-26 06:46:31,C1115,2018-05-05,Germany,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,2,83.71,0.15,,142.307
+INV100178,2022-12-03 05:48:43,C1326,2019-01-30,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,VIP15,42.24
+INV100444,2024-07-08 15:37:11,C1093,2020-02-28,United Kingdom,PayPal,Offline,P013,Backpack,Accessories,Bags,2,96.99,0.05,,184.28099999999998
+INV100416,2023-12-17 06:34:32,C1270,2019-01-19,Germany,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100870,2023-08-02 04:50:59,C1380,2018-09-16,India,Credit Card,Online,P009,External HDD,Electronics,Storage,3,66.06,0.0,,198.18
+INV100882,2022-05-10 18:09:24,C1313,2018-02-25,Spain,Debit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.05,,236.094
+INV100680,2023-04-17 12:15:08,C1297,2019-02-20,United States,Debit Card,Offline,P017,Standing Desk,Furniture,Desks,2,126.42,0.1,,227.556
+INV100177,2022-09-11 16:56:00,C1137,2020-06-30,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.05,NEW10,260.243
+INV100395,2024-12-15 20:07:35,C1169,2021-10-11,Germany,PayPal,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.0,,42.19
+INV100911,2024-09-05 12:31:15,C1143,2020-07-25,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,6,112.27,0.15,VIP15,572.577
+INV100793,2024-01-07 16:32:25,C1084,2018-06-06,India,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100960,2022-01-20 16:52:36,C1019,2019-03-19,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,,42.3
+INV100684,2024-01-21 05:25:50,C1319,2018-01-04,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,5,42.19,0.0,NEW10,210.95
+INV100383,2023-08-12 04:36:24,C1357,2022-07-10,United Kingdom,Cash,Offline,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100956,2024-11-22 17:13:44,C1312,2023-10-27,United Kingdom,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.15,VIP15,74.987
+INV100751,2024-09-25 16:50:59,C1041,2021-10-27,United Kingdom,Cash,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100257,2022-04-06 04:51:05,C1325,2018-11-05,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.05,,26.79
+INV100538,2023-07-12 03:20:37,C1133,2020-12-06,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.05,,276.4215
+INV100335,2024-03-08 19:30:55,C1322,2021-02-15,Germany,Credit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,SUMMER20,126.42
+INV100015,2022-11-10 16:08:14,C1118,2021-06-16,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100324,2024-06-18 02:25:59,C1112,2018-08-09,France,Bank Transfer,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,,42.3
+INV100758,2022-10-02 19:57:41,C1110,2021-01-10,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,4,126.42,0.0,,505.68
+INV100222,2024-04-06 10:41:27,C1358,2020-07-12,Australia,Debit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.0,,56.4
+INV100179,2022-03-21 17:51:24,C1365,2018-10-29,France,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,NEW10,176.44
+INV100983,2024-08-08 09:56:20,C1101,2018-02-18,France,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,,411.72
+INV100022,2024-11-20 02:45:14,C1336,2018-08-17,United States,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100356,2023-04-11 09:11:21,C1201,2020-02-19,India,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.05,,341.31600000000003
+INV100666,2023-08-21 16:24:55,C1270,2018-03-01,United Kingdom,PayPal,Offline,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,,391.04999999999995
+INV100861,2023-04-15 04:32:08,C1093,2020-01-12,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,5,66.06,0.0,NEW10,330.3
+INV100340,2022-03-18 21:26:30,C1093,2020-05-14,United States,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,1,83.71,0.05,SUMMER20,79.52449999999999
+INV100431,2023-07-18 20:33:50,C1049,2018-04-10,United Kingdom,Cash,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.2,SUMMER20,50.688
+INV100551,2024-06-12 23:36:49,C1336,2018-03-17,Germany,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.1,,79.398
+INV100833,2024-07-23 13:57:06,C1252,2021-03-05,United States,Debit Card,Offline,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100203,2023-04-26 23:27:35,C1034,2021-07-10,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,5,53.87,0.1,NEW10,242.41499999999996
+INV100630,2022-04-30 04:52:06,C1306,2019-10-30,Australia,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,1,102.93,0.0,VIP15,102.93
+INV100093,2022-05-31 00:01:20,C1045,2020-05-31,Spain,Credit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.0,NEW10,132.12
+INV100558,2023-07-22 17:19:59,C1160,2018-03-03,Germany,Bank Transfer,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.25,,72.94500000000001
+INV100068,2022-05-18 06:05:12,C1229,2019-06-27,United Kingdom,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.1,VIP15,261.873
+INV100622,2024-02-29 12:20:11,C1153,2021-10-25,Germany,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,6,47.71,0.05,,271.947
+INV100284,2023-08-20 00:59:08,C1144,2020-01-04,United Kingdom,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,4,126.42,0.0,,505.68
+INV100844,2023-09-03 23:28:47,C1008,2021-02-27,United States,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.15,SUMMER20,53.856
+INV100434,2023-05-01 22:31:58,C1081,2019-01-18,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,5,27.94,0.0,VIP15,139.70000000000002
+INV100153,2023-09-30 23:53:28,C1144,2018-01-17,United States,PayPal,Offline,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,WELCOME5,42.3
+INV100075,2022-06-30 04:20:53,C1344,2018-04-21,United States,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,,14.1
+INV100730,2024-09-23 03:42:21,C1045,2022-07-07,Spain,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.05,,53.086
+INV100446,2023-07-16 17:10:08,C1132,2019-08-19,United Kingdom,PayPal,Online,P004,Notebook,Office Supplies,Stationery,4,32.42,0.3,SUMMER20,90.776
+INV100188,2024-01-06 00:45:40,C1310,2019-03-29,United States,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,,190.84
+INV100271,2023-10-01 13:53:42,C1009,2019-04-27,United Kingdom,Debit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.2,,76.336
+INV100236,2023-06-08 11:28:32,C1123,2018-04-29,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100487,2022-09-17 21:10:57,C1164,2020-04-02,United Kingdom,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.0,WELCOME5,290.74
+INV100117,2024-06-08 01:58:39,C1022,2018-06-24,India,Credit Card,Offline,P010,Monitor 24in,Electronics,Displays,3,73.71,0.0,NEW10,221.13
+INV100943,2022-02-25 20:43:31,C1270,2019-04-03,United States,PayPal,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100512,2023-07-17 16:33:46,C1375,2019-01-03,Spain,Credit Card,Online,P009,External HDD,Electronics,Storage,5,66.06,0.0,,330.3
+INV100825,2023-11-06 23:03:35,C1030,2018-09-16,United States,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.15,,35.955
+INV100591,2023-05-24 18:56:17,C1104,2019-01-18,United Kingdom,PayPal,Online,P013,Backpack,Accessories,Bags,3,96.99,0.15,SUMMER20,247.32449999999997
+INV100126,2022-03-11 04:15:03,C1043,2020-05-24,Australia,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.05,SUMMER20,276.4215
+INV100116,2024-09-16 06:25:04,C1317,2018-02-26,United States,Debit Card,Offline,P015,Tablet 10in,Electronics,Computing,4,112.27,0.1,,404.17199999999997
+INV100473,2023-03-06 10:44:28,C1310,2020-01-10,Germany,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.0,,88.22
+INV100693,2023-11-15 11:22:40,C1029,2021-12-29,United Kingdom,Cash,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.25,,205.45499999999998
+INV100057,2022-08-03 12:18:58,C1395,2019-08-29,Australia,Debit Card,Offline,P012,Pen Set,Office Supplies,Stationery,5,88.22,0.0,NEW10,441.1
+INV100863,2023-07-23 05:37:29,C1239,2019-12-23,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,,264.65999999999997
+INV100912,2022-10-15 18:24:52,C1208,2021-04-11,United Kingdom,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,WELCOME5,28.2
+INV100369,2022-08-09 06:21:54,C1292,2020-02-09,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,NEW10,42.24
+INV100268,2023-10-19 04:49:49,C1114,2019-12-23,Australia,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.0,,136.97
+INV100046,2023-03-24 08:30:18,C1037,2020-11-14,United States,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.3,,288.204
+INV100349,2023-05-17 11:24:33,C1056,2018-05-21,United States,PayPal,Offline,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,,190.84
+INV100195,2024-07-29 07:49:16,C1093,2018-09-07,India,Debit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100999,2024-11-03 01:17:19,C1132,2022-01-22,United Kingdom,PayPal,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100834,2022-03-28 04:36:00,C1018,2020-03-10,Germany,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.15,NEW10,35.955
+INV100736,2022-07-30 17:13:01,C1138,2019-03-05,United Kingdom,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100263,2023-09-17 13:57:27,C1285,2020-01-16,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,10,27.94,0.0,,279.40000000000003
+INV100443,2023-03-16 12:03:57,C1326,2019-04-13,United States,Debit Card,Offline,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,VIP15,391.04999999999995
+INV100675,2022-09-17 03:57:30,C1353,2019-10-09,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100304,2023-06-24 16:49:14,C1148,2020-12-27,United Kingdom,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,,391.04999999999995
+INV100341,2023-03-01 06:54:32,C1047,2019-06-06,United States,Cash,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.2,,101.256
+INV100966,2023-06-14 17:28:55,C1353,2018-12-30,India,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,NEW10,64.84
+INV100149,2023-01-19 20:41:59,C1189,2021-10-09,Australia,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100124,2024-01-03 05:33:02,C1211,2020-03-23,United Kingdom,Bank Transfer,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.15,,71.723
+INV100786,2023-12-13 17:48:30,C1193,2018-11-07,United States,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,,28.2
+INV100050,2022-09-24 15:44:30,C1099,2020-07-27,United States,Debit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,SUMMER20,186.39000000000001
+INV100353,2024-06-25 09:04:18,C1184,2020-03-01,Australia,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.1,,25.146
+INV100927,2023-02-25 23:19:47,C1306,2020-12-09,Spain,Credit Card,Offline,P013,Backpack,Accessories,Bags,4,96.99,0.15,,329.76599999999996
+INV100142,2024-12-10 22:22:47,C1190,2020-08-29,Germany,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.1,,25.38
+INV100470,2022-12-22 22:51:05,C1202,2018-03-24,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,5,136.97,0.0,,684.85
+INV100399,2023-07-08 09:40:21,C1051,2020-07-02,United States,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,VIP15,42.24
+INV100625,2024-01-19 18:04:29,C1084,2019-10-18,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,9,42.19,0.0,,379.71
+INV100320,2024-10-13 17:43:47,C1123,2020-07-12,Germany,Credit Card,Online,P007,Headphones,Electronics,Audio,2,53.87,0.0,,107.74
+INV100019,2023-09-27 00:31:59,C1051,2018-04-18,Australia,PayPal,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.2,VIP15,303.408
+INV100809,2022-08-19 07:45:45,C1137,2019-07-22,United Kingdom,PayPal,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100790,2022-05-07 20:15:37,C1076,2021-10-27,Germany,PayPal,Online,P004,Notebook,Office Supplies,Stationery,4,32.42,0.0,,129.68
+INV100808,2022-05-18 18:22:22,C1381,2019-01-12,United Kingdom,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.1,WELCOME5,57.024
+INV100407,2024-12-28 00:46:43,C1200,2019-06-29,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,1,119.76,0.1,,107.784
+INV100537,2024-03-02 00:10:38,C1200,2019-10-22,United Kingdom,Debit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.0,SUMMER20,193.98
+INV100620,2023-01-01 06:06:07,C1334,2021-11-06,Germany,PayPal,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.2,,101.256
+INV100038,2024-11-14 21:21:47,C1019,2020-05-23,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,1,21.12,0.0,,21.12
+INV100175,2024-04-04 17:35:19,C1395,2018-06-30,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.05,,13.395
+INV100245,2023-08-28 05:48:14,C1025,2020-01-11,United Kingdom,Bank Transfer,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.3,,167.664
+INV100828,2022-12-17 18:18:56,C1169,2020-09-29,United Kingdom,Credit Card,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.0,SUMMER20,126.57
+INV100667,2022-07-28 12:30:04,C1240,2019-07-22,France,Bank Transfer,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.2,,269.44800000000004
+INV100754,2024-08-09 21:42:24,C1325,2023-11-14,India,Credit Card,Offline,P007,Headphones,Electronics,Audio,2,53.87,0.1,SUMMER20,96.966
+INV100858,2023-10-01 11:06:09,C1171,2021-07-07,United Kingdom,PayPal,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,,260.7
+INV100154,2024-09-25 05:18:59,C1231,2020-10-10,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,8,136.97,0.0,,1095.76
+INV100287,2023-03-01 14:00:07,C1001,2019-10-18,France,Cash,Online,P014,Smart Speaker,Electronics,Audio,3,102.93,0.0,,308.79
+INV100602,2023-10-12 19:48:03,C1161,2019-09-30,Germany,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.0,NEW10,290.96999999999997
+INV100569,2023-11-20 10:31:39,C1131,2020-10-03,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,,111.76
+INV100743,2024-08-19 06:27:37,C1177,2020-10-28,United Kingdom,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,4,102.93,0.15,,349.962
+INV100017,2022-12-29 18:22:59,C1381,2019-02-21,United States,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,6,88.22,0.0,NEW10,529.3199999999999
+INV100127,2022-01-06 10:41:23,C1127,2019-10-21,United Kingdom,PayPal,Online,P015,Tablet 10in,Electronics,Computing,4,112.27,0.3,NEW10,314.356
+INV100322,2024-02-02 04:37:44,C1149,2021-09-17,United Kingdom,PayPal,Offline,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100255,2023-09-23 20:29:15,C1323,2020-04-05,France,Debit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.15,VIP15,11.985
+INV100657,2024-06-30 11:50:30,C1316,2018-07-18,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,SUMMER20,84.48
+INV100964,2023-02-02 14:25:34,C1045,2018-02-24,United Kingdom,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.0,,352.88
+INV100190,2024-06-03 07:41:50,C1390,2019-09-05,United Kingdom,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,1,119.76,0.15,,101.796
+INV100115,2022-01-28 18:54:40,C1112,2019-01-15,Germany,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,5,112.27,0.0,NEW10,561.35
+INV100616,2024-03-17 12:01:29,C1348,2019-02-07,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,,42.3
+INV100606,2024-10-16 08:07:03,C1380,2022-08-31,United Kingdom,PayPal,Offline,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.15,,443.18999999999994
+INV100180,2024-02-18 05:37:40,C1310,2021-06-28,France,Cash,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100301,2023-01-01 09:18:16,C1055,2018-12-01,United Kingdom,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100759,2023-05-23 11:41:01,C1367,2020-01-17,United Kingdom,Debit Card,Offline,P013,Backpack,Accessories,Bags,4,96.99,0.05,,368.56199999999995
+INV100712,2022-08-12 06:15:21,C1325,2019-08-09,Australia,PayPal,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100723,2024-04-04 12:00:02,C1071,2020-04-26,United Kingdom,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,1,83.71,0.0,,83.71
+INV100685,2022-05-25 21:17:20,C1286,2019-03-29,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.1,,57.024
+INV100979,2024-04-14 21:36:26,C1270,2022-10-16,Germany,Debit Card,Online,P011,Desk Lamp,Home,Lighting,6,83.71,0.15,,426.921
+INV100517,2022-04-27 19:43:19,C1021,2019-10-04,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100984,2024-02-04 06:26:16,C1309,2019-09-07,United States,Bank Transfer,Online,P004,Notebook,Office Supplies,Stationery,4,32.42,0.0,,129.68
+INV100045,2023-04-21 03:03:42,C1165,2018-10-31,United Kingdom,PayPal,Offline,P003,Laptop Stand,Electronics,Accessories,5,27.94,0.1,,125.73000000000002
+INV100909,2022-04-13 22:55:17,C1302,2019-06-16,United States,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.0,,290.74
+INV100157,2022-07-03 11:06:08,C1212,2018-04-05,France,Cash,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100851,2022-12-26 06:40:28,C1052,2018-05-17,United States,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,,167.42
+INV100171,2023-09-17 11:29:20,C1170,2019-06-21,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,6,126.42,0.0,WELCOME5,758.52
+INV100016,2022-07-06 01:19:47,C1085,2018-10-18,France,Bank Transfer,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.0,WELCOME5,56.4
+INV100511,2023-10-19 13:12:30,C1157,2020-09-21,United States,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,4,73.71,0.05,NEW10,280.09799999999996
+INV100048,2024-02-07 14:08:11,C1348,2019-03-14,United States,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,,64.84
+INV100971,2023-01-30 01:50:28,C1060,2019-06-16,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.1,,223.668
+INV100940,2024-08-24 11:21:06,C1300,2022-02-01,United Kingdom,Bank Transfer,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,SUMMER20,547.88
+INV100515,2022-07-09 06:24:09,C1090,2018-05-18,France,Credit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.1,NEW10,75.942
+INV100952,2023-02-25 10:39:59,C1222,2018-06-28,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.15,SUMMER20,105.621
+INV100480,2023-11-16 22:30:12,C1335,2019-06-22,United States,Bank Transfer,Offline,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,,145.37
+INV100283,2023-10-21 08:08:28,C1308,2020-12-07,United States,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,WELCOME5,55.88
+INV100718,2023-12-22 17:27:34,C1105,2019-09-24,India,PayPal,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,SUMMER20,205.86
+INV100877,2022-12-10 14:53:36,C1255,2020-12-18,United Kingdom,Debit Card,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,,205.86
+INV100225,2024-06-27 15:42:48,C1074,2019-08-31,Australia,Debit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100026,2022-05-04 07:58:03,C1237,2019-05-01,United Kingdom,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.05,,414.3045
+INV100954,2023-08-10 02:02:36,C1051,2020-01-30,Spain,PayPal,Offline,P014,Smart Speaker,Electronics,Audio,4,102.93,0.05,WELCOME5,391.134
+INV100437,2024-08-03 23:55:24,C1087,2020-07-24,Germany,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.05,,140.04899999999998
+INV100951,2023-07-12 01:29:55,C1156,2022-06-21,India,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.15,SUMMER20,162.214
+INV100364,2023-03-19 23:50:18,C1022,2019-04-21,United States,PayPal,Offline,P009,External HDD,Electronics,Storage,8,66.06,0.0,WELCOME5,528.48
+INV100229,2022-07-23 22:49:10,C1330,2020-12-28,United Kingdom,PayPal,Offline,P003,Laptop Stand,Electronics,Accessories,6,27.94,0.15,,142.494
+INV100037,2022-03-16 04:20:57,C1113,2018-01-15,France,Cash,Online,P009,External HDD,Electronics,Storage,1,66.06,0.2,,52.848000000000006
+INV100965,2024-07-18 21:19:38,C1072,2019-04-27,United Kingdom,Debit Card,Offline,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.05,,251.42699999999996
+INV100374,2022-12-14 05:17:15,C1360,2019-06-10,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,5,119.76,0.0,,598.8000000000001
+INV100469,2022-10-15 11:20:02,C1291,2018-01-24,India,Credit Card,Offline,P013,Backpack,Accessories,Bags,1,96.99,0.1,WELCOME5,87.291
+INV100967,2022-12-13 08:12:44,C1312,2019-12-24,Australia,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100850,2022-11-23 16:08:12,C1290,2018-01-02,United Kingdom,Debit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.1,NEW10,118.908
+INV100704,2022-01-08 19:19:54,C1386,2018-12-03,France,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,WELCOME5,130.35
+INV100841,2024-10-20 17:25:31,C1341,2021-06-20,Spain,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,WELCOME5,42.24
+INV100194,2022-10-20 12:49:54,C1092,2018-12-15,France,Credit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.1,,128.817
+INV100854,2022-03-25 15:56:12,C1202,2018-12-06,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,,111.76
+INV100864,2022-05-16 02:58:06,C1346,2021-02-03,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.1,,25.146
+INV100503,2023-07-16 20:16:30,C1370,2022-03-15,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,4,73.71,0.0,VIP15,294.84
+INV100969,2022-12-11 02:01:29,C1132,2018-06-28,United Kingdom,Credit Card,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100830,2023-04-03 01:04:05,C1127,2018-12-24,India,Debit Card,Offline,P004,Notebook,Office Supplies,Stationery,6,32.42,0.0,VIP15,194.52
+INV100579,2023-07-28 16:00:23,C1027,2018-12-18,United Kingdom,Bank Transfer,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,VIP15,64.84
+INV100968,2022-08-01 13:29:12,C1342,2021-10-07,Germany,Debit Card,Offline,P004,Notebook,Office Supplies,Stationery,4,32.42,0.2,,103.74400000000001
+INV100162,2023-08-04 11:13:53,C1180,2023-04-13,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.0,,436.11
+INV100908,2022-06-04 22:05:42,C1250,2018-09-20,United Kingdom,PayPal,Offline,P010,Monitor 24in,Electronics,Displays,1,73.71,0.05,,70.02449999999999
+INV100152,2022-05-25 23:27:43,C1356,2018-01-19,Spain,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100801,2024-12-12 12:52:31,C1377,2021-02-24,United Kingdom,Debit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.3,WELCOME5,175.791
+INV100993,2024-05-26 15:10:15,C1110,2020-11-14,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.2,SUMMER20,232.592
+INV100755,2022-01-01 14:15:33,C1333,2020-05-20,India,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,VIP15,252.84
+INV100111,2024-06-08 19:48:18,C1053,2018-11-21,United States,Credit Card,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.0,,42.19
+INV100226,2023-03-27 15:55:14,C1033,2020-01-13,United Kingdom,Debit Card,Offline,P005,Office Chair,Furniture,Seating,5,42.19,0.0,,210.95
+INV100688,2023-05-06 11:44:30,C1007,2021-01-29,India,Debit Card,Online,P013,Backpack,Accessories,Bags,4,96.99,0.0,,387.96
+INV100103,2022-12-26 01:18:25,C1177,2020-06-11,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,NEW10,111.76
+INV100421,2023-02-09 15:55:47,C1055,2018-06-25,United States,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.1,SUMMER20,25.146
+INV100419,2022-11-16 22:11:00,C1197,2022-04-17,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.05,WELCOME5,160.32199999999997
+INV100750,2024-02-07 01:20:14,C1158,2022-01-06,United Kingdom,Credit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.05,,260.243
+INV100586,2023-02-28 19:42:26,C1392,2019-07-15,United Kingdom,Debit Card,Offline,P009,External HDD,Electronics,Storage,1,66.06,0.0,,66.06
+INV100780,2022-02-15 04:57:47,C1168,2019-04-13,United Kingdom,Debit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.05,NEW10,135.9735
+INV100672,2023-04-09 10:51:24,C1106,2020-08-01,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.1,,50.76
+INV100119,2023-08-21 22:13:44,C1311,2018-05-06,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.2,,328.728
+INV100053,2024-06-25 06:06:32,C1331,2018-05-30,Spain,Credit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.0,,47.71
+INV100151,2023-11-21 20:43:25,C1289,2021-09-26,United Kingdom,PayPal,Online,P009,External HDD,Electronics,Storage,3,66.06,0.1,SUMMER20,178.36200000000002
+INV100403,2023-06-19 19:30:48,C1145,2018-10-26,Germany,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,4,14.1,0.0,,56.4
+INV100945,2024-10-27 16:06:02,C1045,2021-12-23,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.0,,168.76
+INV100207,2024-12-24 07:33:03,C1022,2021-06-12,United States,Credit Card,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.25,,93.19500000000001
+INV100658,2024-09-25 22:16:20,C1265,2018-07-13,United States,Credit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,WELCOME5,251.13
+INV100843,2023-10-25 12:39:58,C1141,2021-09-23,Spain,Bank Transfer,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.0,VIP15,124.26
+INV100762,2022-06-13 22:19:06,C1274,2018-11-25,United States,PayPal,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.05,,140.04899999999998
+INV100008,2023-05-13 10:50:15,C1046,2018-04-19,Spain,Credit Card,Online,P011,Desk Lamp,Home,Lighting,2,83.71,0.1,,150.678
+INV100807,2024-06-14 16:00:57,C1354,2023-01-21,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.05,WELCOME5,260.243
+INV100036,2023-02-12 12:31:30,C1253,2019-04-24,Germany,Cash,Online,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.0,NEW10,391.04999999999995
+INV100452,2023-05-09 06:06:50,C1385,2020-12-15,Australia,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100651,2022-02-22 11:36:20,C1033,2018-10-25,France,Credit Card,Online,P017,Standing Desk,Furniture,Desks,6,126.42,0.0,VIP15,758.52
+INV100253,2023-03-29 04:47:03,C1193,2021-11-15,United Kingdom,Credit Card,Online,P009,External HDD,Electronics,Storage,8,66.06,0.0,,528.48
+INV100303,2024-07-27 22:31:44,C1336,2020-02-22,Spain,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,1,102.93,0.2,WELCOME5,82.34400000000001
+INV100746,2023-04-27 01:39:48,C1153,2019-03-05,Germany,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100571,2024-04-17 06:22:24,C1088,2020-10-19,United Kingdom,PayPal,Online,P011,Desk Lamp,Home,Lighting,4,83.71,0.2,NEW10,267.872
+INV100623,2023-10-26 15:09:54,C1035,2018-05-20,India,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.15,NEW10,71.247
+INV100732,2023-12-06 06:39:05,C1113,2019-10-10,Germany,Cash,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,NEW10,336.81
+INV100891,2022-01-18 17:31:05,C1065,2020-09-01,United States,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.05,,26.79
+INV100262,2023-01-11 02:40:32,C1091,2018-03-02,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,3,53.87,0.0,VIP15,161.60999999999999
+INV100610,2022-12-03 01:22:12,C1187,2018-08-23,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,WELCOME5,252.84
+INV100297,2023-11-09 16:20:10,C1153,2019-05-25,United Kingdom,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.2,,22.560000000000002
+INV100414,2023-12-03 20:24:43,C1385,2020-05-27,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100150,2022-09-13 16:41:04,C1174,2019-02-15,India,Bank Transfer,Online,P008,Webcam,Electronics,Accessories,1,62.13,0.0,,62.13
+INV100788,2023-11-25 21:34:35,C1072,2022-07-20,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100640,2023-07-16 08:14:21,C1256,2020-04-25,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.2,NEW10,149.11200000000002
+INV100889,2024-12-26 15:58:32,C1027,2018-03-29,Spain,Cash,Offline,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.15,,35.955
+INV100550,2022-05-31 20:41:35,C1124,2019-07-27,United States,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,5,47.71,0.0,,238.55
+INV100886,2022-07-09 17:23:41,C1368,2020-03-24,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,1,102.93,0.0,,102.93
+INV100488,2022-04-17 01:20:13,C1336,2019-02-21,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100147,2023-11-02 07:21:04,C1325,2021-04-08,France,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.15,,47.498
+INV100146,2022-11-30 03:20:30,C1357,2020-04-14,United States,Credit Card,Online,P009,External HDD,Electronics,Storage,5,66.06,0.0,SUMMER20,330.3
+INV100720,2022-12-01 11:35:42,C1203,2018-07-03,France,Credit Card,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.15,,112.302
+INV100931,2022-08-31 17:30:03,C1331,2020-03-03,United Kingdom,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.0,,436.11
+INV100739,2024-11-01 15:10:15,C1275,2020-12-23,France,Credit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.0,,273.94
+INV100659,2022-07-01 00:03:20,C1181,2020-11-06,France,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.15,,465.698
+INV100348,2022-07-16 06:45:08,C1340,2019-04-25,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.05,,61.598
+INV100463,2024-12-16 06:01:15,C1128,2020-04-07,Spain,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,,55.88
+INV100325,2024-05-17 19:28:39,C1090,2018-03-31,United Kingdom,PayPal,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.0,SUMMER20,248.52
+INV100186,2024-01-22 19:33:42,C1115,2021-04-08,United States,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.0,,290.74
+INV100123,2022-12-26 01:17:25,C1130,2019-01-02,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,SUMMER20,97.26
+INV100853,2022-10-30 17:32:39,C1109,2018-08-20,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.05,,135.9735
+INV100608,2023-12-26 19:36:19,C1224,2018-08-26,United Kingdom,Bank Transfer,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.1,,113.778
+INV100143,2024-10-19 09:39:12,C1159,2019-12-20,France,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.1,,25.38
+INV100958,2022-11-18 16:07:45,C1065,2018-11-26,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,SUMMER20,124.26
+INV100197,2022-01-21 21:41:57,C1224,2020-10-15,United Kingdom,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.0,,290.74
+INV100609,2024-03-31 16:47:19,C1306,2019-08-18,India,Cash,Offline,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,,251.13
+INV100279,2022-11-24 10:20:26,C1205,2020-12-03,United Kingdom,PayPal,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.2,WELCOME5,67.504
+INV100293,2022-04-27 12:45:09,C1148,2018-09-20,United Kingdom,Debit Card,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.15,,174.981
+INV100400,2023-11-26 14:54:30,C1286,2020-07-12,United Kingdom,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100122,2022-04-17 20:28:47,C1188,2020-10-10,United States,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.15,NEW10,247.129
+INV100183,2024-04-01 06:35:17,C1163,2019-07-05,United States,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,2,126.42,0.15,,214.914
+INV100202,2022-09-03 08:43:06,C1011,2020-07-30,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.0,VIP15,436.11
+INV100438,2023-04-13 02:40:03,C1001,2018-05-17,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.1,,76.03200000000001
+INV100246,2023-04-12 23:13:32,C1070,2018-11-13,Spain,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,5,27.94,0.0,SUMMER20,139.70000000000002
+INV100415,2024-03-22 13:01:18,C1229,2020-08-26,United Kingdom,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.0,NEW10,70.5
+INV100932,2023-07-02 09:57:49,C1014,2019-04-29,United Kingdom,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100765,2023-05-28 20:28:30,C1325,2018-03-06,United Kingdom,Credit Card,Offline,P013,Backpack,Accessories,Bags,1,96.99,0.0,,96.99
+INV100906,2022-08-06 23:59:46,C1157,2019-04-25,United States,Cash,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100835,2023-06-04 08:40:32,C1199,2019-09-12,United Kingdom,Bank Transfer,Offline,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.05,,135.9735
+INV100887,2023-07-08 16:19:09,C1076,2020-11-21,United Kingdom,Credit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.15,,116.4245
+INV100129,2022-09-16 22:38:44,C1157,2018-11-28,Germany,Cash,Online,P004,Notebook,Office Supplies,Stationery,5,32.42,0.05,,153.995
+INV100637,2022-11-07 16:39:09,C1009,2020-12-11,United States,PayPal,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,WELCOME5,64.84
+INV100402,2022-07-24 10:41:11,C1140,2018-12-01,United Kingdom,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.0,,136.97
+INV100784,2024-12-28 20:35:43,C1216,2022-08-08,India,PayPal,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100770,2024-02-22 10:18:58,C1074,2019-09-06,United Kingdom,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100735,2024-08-23 23:01:04,C1378,2019-05-12,Germany,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,NEW10,205.86
+INV100913,2024-10-11 11:36:30,C1223,2021-03-27,Germany,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,SUMMER20,581.48
+INV100219,2024-05-29 23:32:20,C1396,2023-04-25,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.25,NEW10,109.0275
+INV100641,2022-12-26 14:27:14,C1294,2018-06-23,United Kingdom,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100915,2024-01-17 21:19:48,C1263,2021-07-10,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,1,32.42,0.05,,30.799
+INV100752,2023-07-10 10:35:45,C1246,2019-08-22,France,PayPal,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.05,,120.24149999999999
+INV100806,2024-09-15 17:07:44,C1131,2023-05-15,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.0,,47.71
+INV100919,2023-09-12 00:22:02,C1267,2020-08-17,United Kingdom,Debit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,,14.1
+INV100624,2023-08-01 13:58:50,C1047,2019-10-27,United Kingdom,PayPal,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100874,2022-05-07 14:06:54,C1328,2021-01-28,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100760,2024-10-20 15:17:24,C1358,2023-10-06,Germany,Bank Transfer,Offline,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.0,,436.11
+INV100386,2023-06-06 16:04:26,C1226,2020-11-01,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.2,,329.37600000000003
+INV100972,2023-04-12 10:36:57,C1344,2021-10-03,United Kingdom,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.0,SUMMER20,73.71
+INV100509,2022-10-15 13:56:57,C1129,2019-07-30,United Kingdom,PayPal,Online,P013,Backpack,Accessories,Bags,2,96.99,0.0,SUMMER20,193.98
+INV100267,2024-03-09 07:14:06,C1192,2021-02-24,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.0,,88.22
+INV100819,2024-01-03 19:33:37,C1284,2021-01-19,United Kingdom,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,3,145.37,0.25,,327.0825
+INV100441,2022-06-23 01:29:34,C1042,2018-06-08,United Kingdom,Credit Card,Online,P007,Headphones,Electronics,Audio,4,53.87,0.0,,215.48
+INV100496,2022-02-01 05:45:05,C1186,2021-07-15,Germany,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,WELCOME5,55.88
+INV100112,2024-05-20 07:46:10,C1033,2018-09-01,India,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,SUMMER20,205.86
+INV100691,2023-05-07 22:34:18,C1196,2021-09-25,India,Debit Card,Online,P016,Coffee Mug,Home,Kitchen,5,119.76,0.15,,508.98
+INV100232,2024-02-06 20:28:12,C1015,2018-09-21,United States,Debit Card,Online,P016,Coffee Mug,Home,Kitchen,4,119.76,0.0,,479.04
+INV100869,2022-02-11 17:29:14,C1204,2019-12-10,Australia,Debit Card,Online,P011,Desk Lamp,Home,Lighting,6,83.71,0.0,,502.26
+INV100607,2024-09-27 23:32:42,C1304,2019-02-01,United Kingdom,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,VIP15,224.54
+INV100671,2023-07-17 02:34:24,C1108,2023-05-09,United States,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100373,2022-06-30 01:31:59,C1021,2019-03-31,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,NEW10,14.1
+INV100981,2024-01-06 15:15:00,C1149,2021-12-21,United Kingdom,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,1,102.93,0.0,,102.93
+INV100842,2024-10-01 21:48:01,C1227,2019-08-23,United States,PayPal,Online,P013,Backpack,Accessories,Bags,4,96.99,0.15,,329.76599999999996
+INV100233,2022-05-07 16:56:34,C1076,2018-08-24,United States,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.1,,100.584
+INV100785,2023-03-23 23:31:34,C1321,2020-10-18,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.05,,160.32199999999997
+INV100676,2022-05-17 08:46:53,C1396,2019-09-08,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100317,2022-06-03 06:52:31,C1065,2018-07-16,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,,27.94
+INV100648,2024-11-10 05:02:16,C1137,2018-01-03,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,5,14.1,0.15,,59.925
+INV100410,2022-08-11 22:54:33,C1310,2020-12-05,Spain,Credit Card,Online,P017,Standing Desk,Furniture,Desks,4,126.42,0.0,,505.68
+INV100898,2022-01-11 21:10:40,C1141,2018-09-12,United Kingdom,Bank Transfer,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,WELCOME5,186.39000000000001
+INV100709,2023-01-13 01:28:56,C1073,2018-05-02,United Kingdom,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.2,,58.967999999999996
+INV100358,2024-10-30 06:01:16,C1362,2020-10-27,United States,Credit Card,Offline,P018,Mouse Pad,Accessories,Accessories,4,130.35,0.15,,443.18999999999994
+INV100258,2023-08-21 04:58:09,C1112,2019-08-29,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.05,,391.134
+INV100744,2024-12-11 09:11:22,C1329,2019-02-19,France,Credit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.15,,213.4605
+INV100627,2022-07-27 09:37:39,C1195,2019-01-31,United States,Debit Card,Online,P010,Monitor 24in,Electronics,Displays,1,73.71,0.0,VIP15,73.71
+INV100632,2022-11-08 23:52:28,C1229,2019-09-05,United Kingdom,PayPal,Online,P014,Smart Speaker,Electronics,Audio,3,102.93,0.25,,231.59250000000003
+INV100282,2024-12-15 18:59:26,C1092,2019-04-08,United States,PayPal,Offline,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100376,2024-04-03 21:44:58,C1152,2019-08-13,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,4,42.19,0.1,,151.884
+INV100384,2024-02-27 06:31:01,C1252,2018-11-18,Australia,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,1,112.27,0.25,SUMMER20,84.2025
+INV100224,2022-08-01 10:43:58,C1312,2020-12-31,United Kingdom,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,7,88.22,0.1,WELCOME5,555.786
+INV100953,2022-06-05 02:27:35,C1189,2018-04-15,Germany,Debit Card,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,,224.54
+INV100814,2023-10-03 06:23:22,C1044,2021-03-21,Australia,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.05,,335.236
+INV100472,2023-10-06 19:41:39,C1350,2020-08-04,United States,PayPal,Offline,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,,64.84
+INV100347,2024-01-07 08:05:39,C1176,2018-09-09,United Kingdom,PayPal,Online,P007,Headphones,Electronics,Audio,4,53.87,0.0,,215.48
+INV100505,2023-12-18 20:56:25,C1055,2020-10-15,United States,Bank Transfer,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.05,,120.09899999999999
+INV100639,2023-11-10 01:51:28,C1166,2020-04-26,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,14,126.42,0.0,,1769.88
+INV100987,2024-04-29 10:43:22,C1209,2019-09-28,Germany,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.05,,118.047
+INV100928,2022-06-24 08:29:58,C1245,2019-05-07,France,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100905,2022-04-12 02:25:21,C1151,2018-03-01,United Kingdom,Debit Card,Online,P007,Headphones,Electronics,Audio,3,53.87,0.15,,137.36849999999998
+INV100619,2023-05-04 16:07:11,C1244,2018-07-04,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.05,,120.09899999999999
+INV100855,2022-09-18 11:44:33,C1135,2018-03-14,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.1,NEW10,341.334
+INV100803,2024-02-07 00:20:41,C1104,2020-07-08,Germany,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,4,112.27,0.0,NEW10,449.08
+INV100645,2023-06-29 22:48:26,C1387,2019-10-01,United Kingdom,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.3,,78.232
+INV100846,2024-05-02 04:05:34,C1349,2021-05-12,United Kingdom,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,WELCOME5,28.2
+INV100556,2023-04-18 13:39:47,C1327,2019-11-19,Spain,PayPal,Online,P011,Desk Lamp,Home,Lighting,2,83.71,0.25,SUMMER20,125.565
+INV100957,2024-12-22 16:45:36,C1338,2018-07-03,India,Credit Card,Online,P013,Backpack,Accessories,Bags,1,96.99,0.0,WELCOME5,96.99
+INV100577,2022-08-30 02:28:37,C1057,2019-12-24,Germany,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.0,,88.22
+INV100795,2024-06-10 05:12:37,C1314,2020-02-27,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.1,,111.834
+INV100085,2022-11-18 06:23:02,C1091,2019-07-29,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.1,,50.292
+INV100242,2023-09-08 16:06:49,C1296,2018-06-25,United Kingdom,Debit Card,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.25,NEW10,93.19500000000001
+INV100698,2022-11-25 10:59:09,C1384,2019-09-27,France,PayPal,Online,P008,Webcam,Electronics,Accessories,7,62.13,0.0,,434.91
+INV100159,2023-04-01 01:30:54,C1274,2022-10-31,United States,Credit Card,Offline,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,SUMMER20,581.48
+INV100524,2023-03-20 00:03:53,C1052,2020-06-24,United States,PayPal,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.0,SUMMER20,126.42
+INV100035,2022-10-26 17:33:26,C1122,2020-11-24,United States,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,VIP15,205.86
+INV100540,2023-04-04 10:39:55,C1047,2019-05-17,Australia,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.1,,261.666
+INV100170,2022-01-02 09:02:02,C1179,2018-11-01,France,Credit Card,Online,P017,Standing Desk,Furniture,Desks,4,126.42,0.0,,505.68
+INV100654,2022-08-16 18:05:21,C1032,2020-05-07,Germany,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,5,112.27,0.0,WELCOME5,561.35
+INV100890,2023-06-25 22:09:22,C1244,2019-03-19,United Kingdom,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100857,2024-11-01 22:00:35,C1154,2018-12-10,United Kingdom,Debit Card,Offline,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.2,VIP15,211.72799999999998
+INV100847,2023-05-05 05:03:03,C1164,2019-12-18,United Kingdom,Bank Transfer,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100944,2023-01-09 21:35:17,C1233,2018-03-08,France,Bank Transfer,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.2,,200.904
+INV100733,2023-05-08 08:17:10,C1146,2019-01-26,India,Credit Card,Online,P015,Tablet 10in,Electronics,Computing,4,112.27,0.1,,404.17199999999997
+INV100095,2022-08-18 09:59:25,C1191,2019-08-17,United Kingdom,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,NEW10,264.65999999999997
+INV100563,2022-05-17 15:39:33,C1187,2018-02-01,India,Bank Transfer,Online,P015,Tablet 10in,Electronics,Computing,2,112.27,0.15,,190.85899999999998
+INV100240,2024-06-23 16:43:02,C1076,2021-05-30,United States,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100742,2024-03-28 03:29:32,C1312,2020-06-19,United States,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,,336.81
+INV100574,2024-08-06 11:58:49,C1193,2021-07-26,Germany,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,2,119.76,0.2,VIP15,191.616
+INV100690,2023-09-20 02:21:37,C1314,2020-11-23,United States,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,VIP15,167.42
+INV100460,2022-11-14 13:29:11,C1395,2019-03-07,United Kingdom,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.2,,211.72799999999998
+INV100553,2022-02-27 02:30:21,C1217,2019-01-25,United Kingdom,Credit Card,Online,P013,Backpack,Accessories,Bags,1,96.99,0.0,SUMMER20,96.99
+INV100888,2022-08-11 17:53:42,C1076,2019-09-03,United States,PayPal,Online,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.0,,47.71
+INV100206,2023-01-07 17:00:48,C1140,2020-04-08,France,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.05,,26.79
+INV100392,2022-10-04 10:37:40,C1203,2019-01-21,United Kingdom,PayPal,Online,P007,Headphones,Electronics,Audio,6,53.87,0.1,,290.89799999999997
+INV100794,2023-01-09 05:10:28,C1181,2019-03-07,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.0,,547.88
+INV100397,2022-01-10 09:10:16,C1138,2019-12-28,United Kingdom,Credit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100766,2024-10-19 22:22:56,C1318,2021-12-24,Germany,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,1,130.35,0.0,,130.35
+INV100848,2024-01-26 21:03:19,C1138,2021-07-28,Germany,Credit Card,Offline,P009,External HDD,Electronics,Storage,3,66.06,0.0,VIP15,198.18
+INV100217,2022-05-07 20:04:26,C1127,2018-06-30,Australia,PayPal,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.05,,341.31600000000003
+INV100004,2024-10-01 18:40:02,C1298,2019-01-30,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.05,SUMMER20,177.0705
+INV100768,2022-01-31 20:31:26,C1152,2018-03-11,Germany,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,1,32.42,0.05,,30.799
+INV100642,2022-12-19 18:38:43,C1276,2018-02-19,Germany,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100929,2023-04-05 09:22:35,C1288,2018-01-16,United States,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100612,2022-04-23 00:17:09,C1292,2018-10-02,United Kingdom,Cash,Offline,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,NEW10,42.3
+INV100738,2022-01-21 16:33:17,C1298,2018-10-19,United Kingdom,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,3,102.93,0.1,,277.911
+INV100546,2022-09-12 15:15:18,C1370,2019-07-06,Germany,Credit Card,Offline,P013,Backpack,Accessories,Bags,3,96.99,0.0,WELCOME5,290.96999999999997
+INV100725,2022-11-25 00:49:32,C1396,2018-08-07,India,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100683,2022-01-08 11:12:30,C1122,2018-03-06,France,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100098,2024-01-16 22:21:38,C1275,2020-05-25,United Kingdom,Cash,Offline,P016,Coffee Mug,Home,Kitchen,2,119.76,0.05,SUMMER20,227.544
+INV100804,2022-02-24 14:23:04,C1192,2018-05-12,Spain,PayPal,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.0,,190.84
+INV100727,2023-01-13 09:22:01,C1052,2019-08-21,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,6,14.1,0.0,NEW10,84.6
+INV100573,2024-06-21 02:02:47,C1343,2019-08-22,United States,Debit Card,Offline,P010,Monitor 24in,Electronics,Displays,1,73.71,0.25,,55.2825
+INV100406,2023-11-19 22:10:04,C1151,2020-11-10,United States,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,3,32.42,0.0,,97.26
+INV100502,2022-07-23 04:22:10,C1025,2019-01-12,Australia,PayPal,Online,P009,External HDD,Electronics,Storage,8,66.06,0.0,SUMMER20,528.48
+INV100047,2022-11-28 17:32:27,C1180,2019-06-24,India,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,2,126.42,0.1,,227.556
+INV100032,2023-11-22 17:45:08,C1380,2021-01-02,Spain,Credit Card,Offline,P007,Headphones,Electronics,Audio,2,53.87,0.0,WELCOME5,107.74
+INV100779,2024-07-14 15:14:46,C1025,2022-05-14,India,Credit Card,Online,P005,Office Chair,Furniture,Seating,8,42.19,0.2,NEW10,270.016
+INV100839,2023-01-06 01:19:49,C1002,2020-04-02,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.15,VIP15,187.9605
+INV100200,2023-08-12 04:26:17,C1010,2020-02-24,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,NEW10,111.76
+INV100134,2023-11-16 15:19:13,C1339,2021-12-15,United States,Cash,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.05,VIP15,210.0735
+INV100027,2024-05-05 10:29:21,C1381,2018-01-26,Germany,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,4,27.94,0.0,,111.76
+INV100880,2023-08-07 11:18:42,C1332,2020-03-30,India,Credit Card,Offline,P010,Monitor 24in,Electronics,Displays,2,73.71,0.05,,140.04899999999998
+INV100230,2022-08-18 06:15:43,C1028,2019-04-13,United States,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100489,2022-05-22 01:23:08,C1185,2020-07-11,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,1,119.76,0.0,,119.76
+INV100772,2024-11-22 06:56:47,C1198,2022-10-19,United Kingdom,Credit Card,Online,P008,Webcam,Electronics,Accessories,4,62.13,0.0,,248.52
+INV100378,2024-07-31 16:40:40,C1078,2018-10-05,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.05,NEW10,251.42699999999996
+INV100288,2023-05-24 14:51:39,C1341,2019-03-24,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,,95.42
+INV100418,2022-05-27 05:49:15,C1298,2018-05-11,Germany,Credit Card,Online,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,,251.13
+INV100674,2023-08-20 02:04:58,C1368,2019-07-24,Australia,PayPal,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.05,,210.0735
+INV100391,2024-12-26 10:48:23,C1035,2020-09-09,United Kingdom,PayPal,Online,P016,Coffee Mug,Home,Kitchen,5,119.76,0.0,NEW10,598.8000000000001
+INV100592,2023-10-23 15:42:04,C1319,2020-10-02,Australia,Debit Card,Online,P014,Smart Speaker,Electronics,Audio,3,102.93,0.05,NEW10,293.3505
+INV100498,2023-07-17 19:07:10,C1203,2019-08-10,Spain,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,VIP15,251.13
+INV100138,2024-06-17 16:14:22,C1317,2018-06-26,United Kingdom,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,WELCOME5,264.65999999999997
+INV100062,2023-03-31 21:47:32,C1005,2019-09-04,United States,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,4,119.76,0.05,,455.088
+INV100471,2024-06-20 17:00:57,C1023,2021-04-19,United Kingdom,PayPal,Offline,P017,Standing Desk,Furniture,Desks,1,126.42,0.05,NEW10,120.09899999999999
+INV100647,2023-04-19 00:47:32,C1316,2020-08-14,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.2,,141.15200000000002
+INV100128,2022-04-03 16:23:01,C1363,2019-02-14,United States,Debit Card,Offline,P011,Desk Lamp,Home,Lighting,1,83.71,0.0,,83.71
+INV100976,2023-02-28 06:24:51,C1175,2018-04-08,Germany,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,4,102.93,0.0,,411.72
+INV100520,2024-02-18 00:09:47,C1048,2020-05-26,France,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,,359.28000000000003
+INV100838,2023-01-09 19:19:52,C1222,2022-08-17,United Kingdom,PayPal,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100962,2022-06-29 13:34:28,C1327,2019-07-10,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,6,62.13,0.0,,372.78000000000003
+INV100064,2022-12-15 02:30:44,C1235,2018-07-20,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.1,,111.834
+INV100812,2023-10-28 02:00:39,C1037,2018-08-09,United States,PayPal,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100014,2024-10-13 02:11:14,C1036,2018-11-29,United Kingdom,Debit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,2,47.71,0.0,VIP15,95.42
+INV100156,2023-08-01 04:07:05,C1203,2020-10-13,United States,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,1,88.22,0.15,,74.987
+INV100040,2024-01-10 14:50:47,C1144,2018-03-31,United Kingdom,PayPal,Online,P015,Tablet 10in,Electronics,Computing,3,112.27,0.0,NEW10,336.81
+INV100492,2022-11-20 02:10:24,C1041,2020-06-21,United Kingdom,Cash,Online,P010,Monitor 24in,Electronics,Displays,5,73.71,0.0,,368.54999999999995
+INV100379,2022-01-12 09:27:29,C1345,2018-12-28,Australia,Debit Card,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,,359.28000000000003
+INV100187,2024-08-18 18:33:23,C1023,2022-06-16,United States,PayPal,Offline,P002,USB-C Cable,Electronics,Accessories,3,21.12,0.05,,60.192
+INV100763,2023-05-18 04:21:32,C1178,2019-11-26,United Kingdom,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,1,27.94,0.0,,27.94
+INV100216,2023-06-13 05:05:41,C1158,2020-03-19,India,PayPal,Online,P007,Headphones,Electronics,Audio,1,53.87,0.0,,53.87
+INV100791,2022-06-02 12:29:08,C1168,2018-11-13,France,Credit Card,Online,P011,Desk Lamp,Home,Lighting,9,83.71,0.0,,753.39
+INV100052,2022-09-03 01:39:34,C1299,2021-07-17,United Kingdom,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100878,2023-11-30 16:47:06,C1101,2018-02-19,United States,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,5,32.42,0.0,,162.10000000000002
+INV100337,2023-02-27 12:09:37,C1114,2021-01-21,Australia,PayPal,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.0,,147.42
+INV100748,2024-03-20 00:42:00,C1365,2021-09-12,Germany,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,4,47.71,0.05,SUMMER20,181.298
+INV100719,2024-05-11 05:50:56,C1399,2021-03-20,United Kingdom,Credit Card,Offline,P013,Backpack,Accessories,Bags,2,96.99,0.0,,193.98
+INV100724,2022-05-20 13:58:25,C1305,2019-01-27,United Kingdom,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,1,119.76,0.0,NEW10,119.76
+INV100295,2024-06-01 07:11:31,C1117,2020-12-16,United Kingdom,Credit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.0,,14.1
+INV100701,2024-08-09 04:10:30,C1053,2021-10-02,United Kingdom,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,4,32.42,0.0,,129.68
+INV100251,2023-06-01 11:20:25,C1362,2019-05-20,United Kingdom,Credit Card,Offline,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.2,,67.05600000000001
+INV100726,2023-11-27 20:36:51,C1014,2022-10-23,United States,Credit Card,Online,P004,Notebook,Office Supplies,Stationery,4,32.42,0.05,,123.196
+INV100461,2022-05-03 14:37:41,C1277,2018-01-11,United Kingdom,Cash,Offline,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,,379.26
+INV100455,2024-11-18 15:15:42,C1060,2019-02-08,United Kingdom,Cash,Online,P004,Notebook,Office Supplies,Stationery,2,32.42,0.0,VIP15,64.84
+INV100996,2022-07-30 14:33:11,C1056,2019-03-23,United Kingdom,Bank Transfer,Online,P020,HDMI Cable,Electronics,Accessories,5,145.37,0.0,,726.85
+INV100815,2022-02-04 02:52:00,C1162,2018-12-29,India,Debit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.0,NEW10,84.38
+INV100862,2022-11-05 06:25:14,C1047,2018-11-22,Australia,Debit Card,Online,P002,USB-C Cable,Electronics,Accessories,5,21.12,0.25,,79.2
+INV100269,2024-09-01 02:45:27,C1261,2018-01-28,Germany,Credit Card,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.25,,154.395
+INV100201,2023-04-14 01:28:27,C1328,2018-04-01,India,Debit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.0,VIP15,273.94
+INV100161,2023-05-10 20:51:36,C1081,2021-09-10,Germany,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,3,126.42,0.2,,303.408
+INV100555,2023-05-17 09:31:22,C1061,2020-02-25,United States,PayPal,Online,P016,Coffee Mug,Home,Kitchen,7,119.76,0.0,,838.32
+INV100729,2024-02-22 05:58:16,C1329,2018-03-31,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.1,,227.556
+INV100401,2022-05-13 23:26:49,C1288,2018-07-31,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,2,73.71,0.25,SUMMER20,110.565
+INV100702,2022-02-20 13:54:37,C1377,2018-06-22,United Kingdom,Debit Card,Online,P003,Laptop Stand,Electronics,Accessories,3,27.94,0.0,,83.82000000000001
+INV100476,2022-05-07 20:52:20,C1204,2020-02-16,United Kingdom,Cash,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,SUMMER20,176.44
+INV100821,2022-01-01 23:06:51,C1019,2019-12-21,United States,PayPal,Online,P020,HDMI Cable,Electronics,Accessories,2,145.37,0.05,SUMMER20,276.203
+INV100771,2022-12-02 23:05:35,C1127,2019-07-07,United Kingdom,Bank Transfer,Offline,P015,Tablet 10in,Electronics,Computing,2,112.27,0.0,WELCOME5,224.54
+INV100105,2023-04-14 15:10:06,C1330,2018-01-07,India,PayPal,Online,P003,Laptop Stand,Electronics,Accessories,2,27.94,0.0,,55.88
+INV100565,2023-08-30 07:09:03,C1362,2018-06-05,Spain,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.2,,202.27200000000002
+INV100389,2023-02-13 05:01:00,C1315,2021-05-28,Spain,Cash,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.05,,335.236
+INV100001,2023-08-29 12:29:26,C1388,2022-10-01,United Kingdom,Debit Card,Online,P020,HDMI Cable,Electronics,Accessories,1,145.37,0.0,,145.37
+INV100937,2022-05-07 09:19:37,C1205,2018-05-14,United Kingdom,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.05,,167.618
+INV100982,2024-06-01 19:48:21,C1130,2022-11-18,France,Debit Card,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100561,2022-01-30 10:46:56,C1238,2019-11-22,United States,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,SUMMER20,581.48
+INV100080,2024-03-02 18:32:38,C1085,2022-08-07,United States,Credit Card,Offline,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100205,2023-08-12 20:09:35,C1219,2022-11-24,United Kingdom,Credit Card,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.0,,132.12
+INV100034,2022-08-02 19:27:04,C1063,2018-12-17,United Kingdom,PayPal,Offline,P004,Notebook,Office Supplies,Stationery,6,32.42,0.0,,194.52
+INV100775,2022-04-21 12:13:11,C1277,2018-09-17,India,PayPal,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.1,SUMMER20,317.592
+INV100508,2023-03-02 03:09:14,C1105,2020-07-27,Australia,Debit Card,Online,P014,Smart Speaker,Electronics,Audio,2,102.93,0.0,,205.86
+INV100427,2023-10-03 06:09:14,C1091,2021-09-08,United Kingdom,Credit Card,Offline,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.0,,352.88
+INV100454,2023-07-26 02:59:29,C1147,2021-09-10,United Kingdom,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,4,119.76,0.0,,479.04
+INV100366,2023-07-20 06:49:49,C1185,2018-06-30,India,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,1,14.1,0.05,VIP15,13.395
+INV100091,2022-05-26 15:19:25,C1186,2018-02-22,United Kingdom,Debit Card,Online,P009,External HDD,Electronics,Storage,2,66.06,0.15,,112.302
+INV100339,2024-05-31 03:17:03,C1368,2018-07-09,Germany,Credit Card,Offline,P015,Tablet 10in,Electronics,Computing,1,112.27,0.0,,112.27
+INV100897,2022-06-24 21:15:12,C1224,2019-07-30,United States,Credit Card,Online,P008,Webcam,Electronics,Accessories,3,62.13,0.0,,186.39000000000001
+INV100564,2022-02-27 10:42:29,C1081,2020-04-10,United Kingdom,Bank Transfer,Offline,P009,External HDD,Electronics,Storage,2,66.06,0.0,,132.12
+INV100345,2022-02-24 14:57:52,C1171,2020-02-14,Germany,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,4,88.22,0.0,,352.88
+INV100776,2022-01-28 09:45:56,C1344,2019-03-24,United States,Credit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100241,2024-10-08 19:41:16,C1228,2021-04-17,United Kingdom,Credit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,5,47.71,0.0,,238.55
+INV100013,2024-03-09 01:07:38,C1166,2018-04-12,United Kingdom,Credit Card,Online,P012,Pen Set,Office Supplies,Stationery,3,88.22,0.0,,264.65999999999997
+INV100315,2024-06-25 17:45:24,C1274,2019-02-17,United Kingdom,PayPal,Online,P007,Headphones,Electronics,Audio,4,53.87,0.05,,204.706
+INV100600,2023-10-07 05:06:14,C1389,2019-02-11,India,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,3,73.71,0.2,SUMMER20,176.904
+INV100387,2023-03-17 07:09:07,C1105,2018-01-22,Germany,Debit Card,Offline,P020,HDMI Cable,Electronics,Accessories,5,145.37,0.15,,617.8225
+INV100273,2023-07-01 05:11:52,C1138,2020-11-02,United Kingdom,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,4,136.97,0.05,,520.486
+INV100166,2022-10-31 01:06:19,C1261,2019-09-09,United Kingdom,Credit Card,Online,P003,Laptop Stand,Electronics,Accessories,6,27.94,0.0,,167.64000000000001
+INV100840,2023-08-30 14:06:34,C1235,2018-02-20,United States,PayPal,Offline,P012,Pen Set,Office Supplies,Stationery,7,88.22,0.0,,617.54
+INV100992,2023-11-21 06:09:57,C1048,2019-05-07,United Kingdom,Debit Card,Offline,P010,Monitor 24in,Electronics,Displays,2,73.71,0.0,,147.42
+INV100646,2022-11-25 00:27:36,C1187,2018-09-05,United States,Credit Card,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.05,SUMMER20,247.66499999999996
+INV100818,2024-08-06 12:30:04,C1168,2021-10-22,United Kingdom,Cash,Offline,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100484,2023-08-08 16:31:12,C1162,2021-02-10,Australia,Debit Card,Online,P005,Office Chair,Furniture,Seating,1,42.19,0.2,,33.752
+INV100980,2023-12-29 02:31:30,C1192,2020-06-20,United Kingdom,Debit Card,Offline,P001,Wireless Mouse,Electronics,Accessories,6,14.1,0.0,,84.6
+INV100504,2022-03-29 16:58:01,C1384,2018-05-11,United Kingdom,Debit Card,Online,P012,Pen Set,Office Supplies,Stationery,2,88.22,0.0,,176.44
+INV100831,2022-11-13 10:49:51,C1209,2020-07-19,United Kingdom,Bank Transfer,Online,P013,Backpack,Accessories,Bags,5,96.99,0.0,,484.95
+INV100243,2024-10-11 14:51:36,C1202,2022-09-19,Germany,Credit Card,Online,P020,HDMI Cable,Electronics,Accessories,4,145.37,0.0,,581.48
+INV100566,2023-05-14 03:55:31,C1201,2018-12-29,United Kingdom,Credit Card,Offline,P014,Smart Speaker,Electronics,Audio,3,102.93,0.0,NEW10,308.79
+INV100875,2024-01-01 04:49:01,C1076,2023-04-30,Germany,Credit Card,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.0,,84.38
+INV100562,2022-11-21 22:18:41,C1019,2020-01-20,India,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,3,130.35,0.05,,371.49749999999995
+INV100686,2022-10-29 05:22:00,C1080,2018-01-22,Spain,Credit Card,Offline,P006,Mechanical Keyboard,Electronics,Accessories,1,47.71,0.0,,47.71
+INV100189,2023-08-09 00:54:17,C1024,2021-09-29,United States,Credit Card,Offline,P011,Desk Lamp,Home,Lighting,3,83.71,0.0,,251.13
+INV100782,2022-04-24 16:51:27,C1046,2019-09-19,United States,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,SUMMER20,42.24
+INV100699,2022-04-15 21:33:19,C1131,2018-09-16,Germany,Credit Card,Offline,P004,Notebook,Office Supplies,Stationery,5,32.42,0.0,,162.10000000000002
+INV100475,2022-03-11 01:47:02,C1279,2018-05-31,India,Debit Card,Online,P019,Planner 2024,Office Supplies,Stationery,3,136.97,0.0,,410.90999999999997
+INV100681,2022-06-03 10:11:41,C1098,2020-07-01,United Kingdom,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,6,73.71,0.0,WELCOME5,442.26
+INV100510,2024-02-26 02:59:10,C1336,2021-03-28,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
+INV100058,2022-05-23 10:34:22,C1095,2019-04-10,United States,Credit Card,Offline,P002,USB-C Cable,Electronics,Accessories,2,21.12,0.0,,42.24
+INV100474,2024-03-10 08:35:10,C1207,2019-06-14,United Kingdom,Debit Card,Offline,P009,External HDD,Electronics,Storage,3,66.06,0.0,NEW10,198.18
+INV100560,2024-02-22 10:40:15,C1285,2018-05-18,France,Bank Transfer,Online,P019,Planner 2024,Office Supplies,Stationery,1,136.97,0.0,,136.97
+INV100856,2022-11-10 17:20:47,C1003,2018-11-29,United Kingdom,Debit Card,Online,P005,Office Chair,Furniture,Seating,3,42.19,0.05,NEW10,120.24149999999999
+INV100747,2023-09-26 14:20:35,C1200,2020-03-29,United Kingdom,Debit Card,Online,P018,Mouse Pad,Accessories,Accessories,2,130.35,0.0,,260.7
+INV100252,2023-02-19 12:24:54,C1358,2020-06-25,United States,PayPal,Online,P016,Coffee Mug,Home,Kitchen,3,119.76,0.0,WELCOME5,359.28000000000003
+INV100021,2024-11-25 13:11:48,C1288,2021-10-22,United States,Credit Card,Online,P016,Coffee Mug,Home,Kitchen,6,119.76,0.1,,646.7040000000001
+INV100313,2022-04-03 08:32:46,C1343,2020-12-08,United Kingdom,PayPal,Offline,P011,Desk Lamp,Home,Lighting,1,83.71,0.0,,83.71
+INV100459,2024-10-21 10:58:09,C1382,2024-03-07,India,Credit Card,Offline,P005,Office Chair,Furniture,Seating,2,42.19,0.25,,63.285
+INV100160,2023-03-11 11:22:34,C1322,2021-06-15,Germany,Credit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,NEW10,379.26
+INV100276,2022-10-14 14:58:54,C1339,2018-12-17,United States,Credit Card,Online,P001,Wireless Mouse,Electronics,Accessories,3,14.1,0.0,NEW10,42.3
+INV100955,2022-11-28 17:52:13,C1087,2020-09-30,United Kingdom,Debit Card,Online,P011,Desk Lamp,Home,Lighting,1,83.71,0.0,,83.71
+INV100191,2023-09-08 06:42:24,C1126,2021-05-06,Spain,Credit Card,Offline,P016,Coffee Mug,Home,Kitchen,2,119.76,0.0,,239.52
+INV100385,2022-12-13 20:16:45,C1245,2020-08-11,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,1,126.42,0.15,WELCOME5,107.457
+INV100805,2023-01-10 22:52:46,C1329,2018-02-01,United Kingdom,Credit Card,Offline,P017,Standing Desk,Furniture,Desks,2,126.42,0.1,,227.556
+INV100413,2022-09-19 15:05:34,C1187,2018-12-07,United Kingdom,PayPal,Online,P018,Mouse Pad,Accessories,Accessories,6,130.35,0.05,VIP15,742.9949999999999
+INV100491,2022-10-25 02:29:24,C1294,2019-07-19,Spain,Credit Card,Online,P013,Backpack,Accessories,Bags,2,96.99,0.05,,184.28099999999998
+INV100343,2024-08-02 07:35:02,C1011,2019-04-11,United States,PayPal,Offline,P008,Webcam,Electronics,Accessories,1,62.13,0.0,WELCOME5,62.13
+INV100769,2023-01-28 15:08:48,C1103,2020-03-07,United Kingdom,Debit Card,Online,P015,Tablet 10in,Electronics,Computing,1,112.27,0.0,,112.27
+INV100308,2022-07-15 02:35:44,C1271,2019-03-20,United States,Credit Card,Online,P002,USB-C Cable,Electronics,Accessories,4,21.12,0.0,,84.48
+INV100661,2022-03-02 19:59:34,C1064,2018-11-15,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,NEW10,143.13
+INV100130,2024-08-12 06:56:47,C1272,2018-12-15,United Kingdom,Credit Card,Online,P013,Backpack,Accessories,Bags,3,96.99,0.0,,290.96999999999997
+INV100663,2024-08-20 04:43:12,C1000,2020-05-15,Germany,PayPal,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100871,2022-05-01 09:12:04,C1072,2019-02-07,United States,Bank Transfer,Online,P005,Office Chair,Furniture,Seating,2,42.19,0.2,SUMMER20,67.504
+INV100099,2023-11-11 19:17:24,C1178,2021-02-02,Australia,Credit Card,Online,P005,Office Chair,Furniture,Seating,10,42.19,0.3,NEW10,295.33
+INV100372,2022-07-08 13:08:08,C1389,2018-10-12,United Kingdom,Credit Card,Online,P013,Backpack,Accessories,Bags,4,96.99,0.0,,387.96
+INV100087,2024-02-14 15:54:05,C1132,2023-03-04,United Kingdom,PayPal,Online,P001,Wireless Mouse,Electronics,Accessories,2,14.1,0.0,WELCOME5,28.2
+INV100458,2022-07-26 09:56:44,C1323,2020-03-19,United Kingdom,Bank Transfer,Online,P007,Headphones,Electronics,Audio,2,53.87,0.0,,107.74
+INV100330,2022-05-13 17:18:25,C1076,2020-11-13,United States,Credit Card,Offline,P019,Planner 2024,Office Supplies,Stationery,2,136.97,0.05,NEW10,260.243
+INV100214,2023-06-06 17:42:32,C1289,2019-06-04,Germany,Credit Card,Offline,P010,Monitor 24in,Electronics,Displays,1,73.71,0.0,,73.71
+INV100466,2024-11-01 01:22:25,C1352,2018-03-30,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,4,126.42,0.0,SUMMER20,505.68
+INV100121,2022-10-27 21:53:01,C1117,2018-10-01,United Kingdom,Credit Card,Online,P017,Standing Desk,Furniture,Desks,2,126.42,0.0,,252.84
+INV100614,2024-12-01 23:35:36,C1168,2023-08-17,France,Credit Card,Offline,P009,External HDD,Electronics,Storage,5,66.06,0.15,,280.755
+INV100020,2024-12-18 00:59:39,C1090,2023-07-10,France,Credit Card,Online,P010,Monitor 24in,Electronics,Displays,5,73.71,0.0,,368.54999999999995
+INV100700,2024-10-21 23:30:55,C1355,2020-08-23,United Kingdom,Credit Card,Offline,P008,Webcam,Electronics,Accessories,4,62.13,0.3,,173.964
+INV100071,2023-10-06 07:35:09,C1317,2018-01-27,United States,PayPal,Online,P013,Backpack,Accessories,Bags,4,96.99,0.3,,271.57199999999995
+INV100106,2024-03-06 08:48:25,C1373,2020-07-31,United Kingdom,PayPal,Offline,P005,Office Chair,Furniture,Seating,3,42.19,0.0,,126.57
+INV100270,2022-01-05 12:02:53,C1017,2018-11-26,United Kingdom,Debit Card,Online,P006,Mechanical Keyboard,Electronics,Accessories,3,47.71,0.0,,143.13
+INV100860,2022-07-21 19:42:07,C1046,2018-03-07,United States,Debit Card,Offline,P011,Desk Lamp,Home,Lighting,2,83.71,0.0,VIP15,167.42
+INV100435,2022-11-19 11:24:40,C1371,2019-11-16,United Kingdom,Debit Card,Online,P017,Standing Desk,Furniture,Desks,3,126.42,0.0,VIP15,379.26
+INV100102,2022-06-15 03:38:42,C1292,2019-09-30,United Kingdom,Debit Card,Online,P008,Webcam,Electronics,Accessories,2,62.13,0.0,,124.26
